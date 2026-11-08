@@ -1,0 +1,250 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ScamShield</title>
+<meta name="description" content="Explainable, obfuscation-robust SMS scam detection for Indian-context scams.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🛡</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --canvas:#08090B; --panel:#101216; --panel-raised:#15181E;
+    --line:#30343B; --ink:#F4F5F7; --muted:#A2A8B2;
+    --red:#F04452; --red-soft:#2A1115;
+    --green:#39D98A; --green-soft:#10251B;
+    --amber:#F5BE45; --amber-soft:#30240D;
+    --mono:'IBM Plex Mono',ui-monospace,monospace;
+  }
+  * { box-sizing:border-box; }
+  html, body { margin:0; }
+  body { background:var(--canvas); color:var(--ink); font-family:'Space Grotesk',system-ui,sans-serif; }
+  main { max-width:900px; margin:0 auto; padding:2.1rem 1rem 2.5rem; }
+  .desktop { border:1px solid var(--line); background:var(--panel); box-shadow:3px 3px 0 #30343B; margin-bottom:1.35rem; }
+  .titlebar { display:flex; justify-content:space-between; align-items:center; gap:12px; padding:10px 13px; background:#ECEEF2; color:#111318; border-bottom:1px solid #C8CBD1; font:600 .72rem var(--mono); text-transform:uppercase; letter-spacing:.02em; }
+  .title-left { display:flex; gap:9px; align-items:center; min-width:0; }
+  .title-left span:last-child { overflow-wrap:anywhere; }
+  .controls { display:flex; gap:5px; flex-shrink:0; }
+  .control { width:17px; height:17px; display:grid; place-items:center; border:1px solid #17191D; background:#fff; color:#111; font:700 11px var(--mono); }
+  .control.close { background:var(--red); color:#fff; }
+  .menu { display:flex; gap:17px; padding:7px 13px; border-bottom:1px solid var(--line); color:var(--muted); font:.68rem var(--mono); }
+  .hero { padding:23px; }
+  .eyebrow { color:var(--red); font:600 .68rem var(--mono); letter-spacing:.13em; text-transform:uppercase; }
+  .hero h1 { color:var(--ink); font-size:clamp(1.7rem,4vw,2.4rem); line-height:1.1; letter-spacing:-.045em; margin:10px 0; }
+  .hero p { color:var(--muted); font-size:.92rem; line-height:1.55; margin:0; max-width:640px; }
+  .legend { display:flex; gap:8px; flex-wrap:wrap; margin-top:18px; }
+  .pill { display:inline-flex; align-items:center; gap:7px; border:1px solid var(--line); padding:6px 9px; font:600 .65rem var(--mono); }
+  .dot { width:7px; height:7px; border-radius:50%; display:inline-block; }
+  .safe-dot { background:var(--green); } .spam-dot { background:var(--red); }
+  .section-title { font:600 .72rem var(--mono); text-transform:uppercase; letter-spacing:.07em; color:var(--muted); margin:22px 0 13px; }
+  .row { display:grid; grid-template-columns:1.4fr 1fr; gap:14px; }
+  .row.buttons { grid-template-columns:1.5fr 1fr; gap:10px; margin-top:12px; }
+  label { display:block; color:#DDE0E5; font-size:.85rem; margin-bottom:6px; }
+  select, textarea { width:100%; border:1px solid #414650; border-radius:2px; background:var(--panel-raised); color:var(--ink); font:.85rem var(--mono); padding:10px; }
+  textarea { min-height:145px; resize:vertical; margin-top:12px; line-height:1.5; }
+  select:focus, textarea:focus, button:focus-visible { outline:2px solid var(--red); outline-offset:1px; }
+  button { border:1px solid #D8DCE3; border-radius:2px; background:#ECEEF2; color:#111318; font:700 .75rem var(--mono); min-height:42px; box-shadow:2px 2px 0 #515660; cursor:pointer; width:100%; text-transform:uppercase; }
+  button:hover { background:#fff; }
+  button:active { transform:translate(1px,1px); box-shadow:1px 1px 0 #515660; }
+  button.primary { background:var(--red); color:#fff; border-color:#FF737D; box-shadow:2px 2px 0 #7D242C; }
+  button.primary:hover { background:#ff5562; }
+  button:disabled { opacity:.6; cursor:progress; }
+  #useExample { margin-top:10px; }
+  .notice { border:1px solid var(--line); padding:10px 12px; margin:12px 0; font-size:.85rem; border-radius:2px; }
+  .notice.warn { border-color:var(--amber); background:var(--amber-soft); }
+  .notice.err { border-color:var(--red); background:var(--red-soft); }
+  .notice.info { border-color:#3b6fb6; background:#0f1a2a; }
+  hr { border:0; border-top:1px solid var(--line); margin:26px 0 0; }
+  .result { border:1px solid var(--line); border-left:4px solid var(--green); padding:17px; margin:14px 0; background:linear-gradient(90deg,var(--green-soft),var(--panel) 65%); }
+  .result.scam { border-left-color:var(--red); background:linear-gradient(90deg,var(--red-soft),var(--panel) 65%); }
+  .result.caution { border-left-color:var(--amber); background:linear-gradient(90deg,var(--amber-soft),var(--panel) 65%); }
+  .verdict { font:700 1.2rem var(--mono); color:var(--green); }
+  .verdict.scam { color:var(--red); } .verdict.caution { color:var(--amber); }
+  .result-headline { font-size:1rem; font-weight:600; margin-top:8px; }
+  .result-copy { color:#E4E6EA; line-height:1.6; font-size:.88rem; margin-top:10px; overflow-wrap:anywhere; white-space:pre-wrap; }
+  .metric-grid { display:grid; grid-template-columns:1fr 1fr; gap:10px; margin:14px 0; }
+  .metric { background:var(--panel-raised); border:1px solid var(--line); padding:12px; min-width:0; }
+  .metric-label { color:var(--muted); font:600 .63rem var(--mono); text-transform:uppercase; letter-spacing:.04em; }
+  .metric-value { font:600 1.25rem var(--mono); margin-top:6px; }
+  .bar { height:4px; background:var(--line); margin-top:8px; }
+  .bar > span { display:block; height:100%; background:var(--red); }
+  h3 { font-size:.95rem; margin:18px 0 6px; }
+  .flag { border-left:2px solid var(--red); padding:8px 11px; background:#171316; margin:8px 0; }
+  .advice { border-left:2px solid var(--green); padding:8px 11px; background:#111A16; margin:8px 0; }
+  .muted { color:var(--muted); font-size:.76rem; line-height:1.5; }
+  details { border:1px solid var(--line); background:var(--panel); margin:14px 0; }
+  summary { cursor:pointer; padding:11px 14px; font-size:.88rem; }
+  details > .inner { padding:0 14px 14px; overflow-x:auto; }
+  .modified { font:.8rem var(--mono); white-space:pre-wrap; overflow-wrap:anywhere; }
+  table { border-collapse:collapse; width:100%; font:.72rem var(--mono); margin:8px 0 16px; }
+  th, td { border:1px solid var(--line); padding:6px 8px; text-align:right; white-space:nowrap; }
+  th:first-child, td:first-child { text-align:left; }
+  th { background:var(--panel-raised); color:var(--muted); font-weight:600; }
+  .table-wrap { overflow-x:auto; }
+  .plots img { max-width:100%; display:block; margin:10px 0; background:#fff; }
+  .status { display:flex; justify-content:space-between; flex-wrap:wrap; gap:8px 16px; padding:10px 12px; margin-top:22px; background:var(--panel); border:1px solid var(--line); color:var(--muted); font:.65rem var(--mono); text-transform:uppercase; }
+  .hidden { display:none; }
+  @media (max-width:650px) {
+    .hero { padding:14px; }
+    .row, .row.buttons, .metric-grid { grid-template-columns:1fr; }
+  }
+</style>
+</head>
+<body>
+<main>
+  <div class="desktop">
+    <div class="titlebar">
+      <div class="title-left"><span>🛡</span><span>C:\SYSTEM32\SCAMSHIELD.EXE</span></div>
+      <div class="controls"><span class="control">_</span><span class="control">□</span><span class="control close">×</span></div>
+    </div>
+    <div class="menu"><span><u>F</u>ile</span><span><u>A</u>nalysis</span><span><u>H</u>elp</span></div>
+    <div class="hero">
+      <div class="eyebrow">SCAMSHIELD / MESSAGE SAFETY</div>
+      <h1>ScamShield</h1>
+      <p>Check suspicious SMS messages, understand the warning signs, and get practical next steps. Designed for Indian-context scam patterns.</p>
+      <div class="legend">
+        <span class="pill"><span class="dot spam-dot"></span>SCAM / THREAT</span>
+        <span class="pill"><span class="dot safe-dot"></span>LIKELY LEGITIMATE</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="section-title">01 / CHECK A MESSAGE</div>
+  <div class="row">
+    <div>
+      <label for="example">Try an example</label>
+      <select id="example"><option value="">Type your own message</option></select>
+      <button id="useExample" class="hidden" type="button">Use example</button>
+    </div>
+    <div>
+      <label for="attack">Obfuscation test (optional)</label>
+      <select id="attack">
+        <option>None</option><option>leetspeak</option><option>homoglyph</option><option>zero_width</option>
+        <option>spacing</option><option>url_obfuscation</option><option>combined</option>
+      </select>
+    </div>
+  </div>
+  <label for="message" style="margin-top:14px">SMS message</label>
+  <textarea id="message" placeholder="Paste the SMS here..." maxlength="2000"></textarea>
+  <div class="row buttons">
+    <button id="analyse" class="primary" type="button">Analyse message</button>
+    <button id="clear" type="button">Clear</button>
+  </div>
+  <div id="notice"></div>
+
+  <div id="results" class="hidden" aria-live="polite"></div>
+
+  <details id="perf">
+    <summary>Model performance (optional)</summary>
+    <div class="inner" id="perfBody"><p class="muted">Loading…</p></div>
+  </details>
+
+  <div class="status">
+    <span>SCAMSHIELD.EXE</span>
+    <span>SERVER-SIDE ANALYSIS</span>
+    <span>INDIAN SMS SCAM DETECTION</span>
+  </div>
+  <p class="muted" style="margin-top:12px">Safety note: Never share OTPs, UPI PINs, passwords, or remote-access codes. Do not open suspicious links just to test them.</p>
+</main>
+
+<script>
+const EXAMPLES = {
+  "KYC scam": "Dear SBI customer, your KYC has expired and your account will be blocked today. Update now: http://bit.ly/3xKyc9",
+  "Electricity scam (Hinglish)": "Aapka bijli connection aaj raat kat jayega. Turant call karein 9876543210",
+  "UPI refund scam": "Rs 4,999 refund received by mistake. Please approve the UPI collect request to return it immediately.",
+  "Genuine OTP": "482913 is your OTP for Swiggy. Valid for 10 minutes. Do not share it with anyone.",
+  "Friend text": "Bhai kal 5 baje milte hain canteen mein",
+};
+const $ = (id) => document.getElementById(id);
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const pct = (p) => (p == null ? "N/A" : Math.round(p * 100) + "%");
+
+for (const name of Object.keys(EXAMPLES)) $("example").add(new Option(name, name));
+$("example").addEventListener("change", () => $("useExample").classList.toggle("hidden", !$("example").value));
+$("useExample").addEventListener("click", () => { $("message").value = EXAMPLES[$("example").value]; $("message").focus(); });
+$("clear").addEventListener("click", () => { $("message").value = ""; $("notice").innerHTML = ""; $("results").classList.add("hidden"); $("results").innerHTML = ""; });
+$("analyse").addEventListener("click", analyse);
+$("message").addEventListener("keydown", (e) => { if (e.key === "Enter" && (e.metaKey || e.ctrlKey)) analyse(); });
+
+function notice(kind, text) { $("notice").innerHTML = text ? `<div class="notice ${kind}">${esc(text)}</div>` : ""; }
+
+async function analyse() {
+  const message = $("message").value;
+  if (!message.trim()) return notice("warn", "Paste an SMS message before analysing it.");
+  notice("", "");
+  const btn = $("analyse");
+  btn.disabled = true; btn.textContent = "Checking message…";
+  try {
+    const res = await fetch("/api/analyze", {
+      method: "POST", headers: {"Content-Type": "application/json"},
+      body: JSON.stringify({message, attack: $("attack").value}),
+    });
+    const data = await res.json().catch(() => ({error: `Server returned ${res.status}`}));
+    if (!res.ok || data.error) throw new Error(data.error || `Server returned ${res.status}`);
+    render(data);
+  } catch (err) {
+    notice("err", `Analysis failed: ${err.message}`);
+  } finally {
+    btn.disabled = false; btn.textContent = "Analyse message";
+  }
+}
+
+function render(r) {
+  const cls = r.verdict_class === "safe" ? "" : r.verdict_class;
+  let h = `<hr><div class="section-title">02 / ANALYSIS RESULT</div>`;
+  if (r.attack_name !== "None") {
+    h += `<div class="notice info">Obfuscation test applied: ${esc(r.attack_name)}. The result below is for the modified message.</div>
+          <details><summary>View modified message</summary><div class="inner modified">${esc(r.analysed_text)}</div></details>`;
+  }
+  h += `<div class="result ${cls}">
+          <div class="verdict ${cls}">${esc(r.verdict_label)}</div>
+          <div class="result-headline">${esc(r.headline)}</div>
+          <div class="result-copy">${esc(r.why)}</div>
+        </div>
+        <div class="metric-grid">
+          <div class="metric"><div class="metric-label">ScamShield scam score</div><div class="metric-value">${pct(r.scam_probability)}</div><div class="bar"><span style="width:${r.scam_probability*100}%"></span></div></div>
+          <div class="metric"><div class="metric-label">Baseline model score</div><div class="metric-value">${pct(r.baseline_probability)}</div><div class="bar"><span style="width:${(r.baseline_probability||0)*100}%"></span></div></div>
+        </div>`;
+  if (r.red_flags.length) h += `<h3>Warning signs</h3>` + r.red_flags.map(f => `<div class="flag"><strong>${esc(f.flag)}</strong><br><span class="muted">${esc(f.why)}</span></div>`).join("");
+  if (r.advice.length) h += `<h3>Recommended next steps</h3>` + r.advice.map(a => `<div class="advice">${esc(a)}</div>`).join("");
+  h += `<details><summary>Knowledge-base references</summary><div class="inner">` +
+       (r.sources.length ? r.sources.map(s => `<div>${esc(s.title)} · similarity ${esc(s.similarity)}</div>`).join("") : `<span class="muted">No knowledge-base entries were returned for this message.</span>`) +
+       `</div></details>
+       <p class="muted">This is an advisory model output, not a guarantee. Verify links, payment requests, and helpline details independently.</p>`;
+  $("results").innerHTML = h;
+  $("results").classList.remove("hidden");
+  $("results").scrollIntoView({behavior: "smooth", block: "start"});
+}
+
+function pivot(rows, rowKey, colKey, valKey, digits) {
+  const rowsOrder = [...new Set(rows.map(r => r[rowKey]))];
+  const cols = [...new Set(rows.map(r => r[colKey]))];
+  const val = {}; rows.forEach(r => val[r[rowKey] + "\u0000" + r[colKey]] = r[valKey]);
+  return `<div class="table-wrap"><table><thead><tr><th>${esc(rowKey)}</th>${cols.map(c => `<th>${esc(c)}</th>`).join("")}</tr></thead><tbody>` +
+    rowsOrder.map(m => `<tr><td>${esc(m)}</td>${cols.map(c => { const v = val[m + "\u0000" + c]; return `<td>${v == null || v === "" ? "–" : Number(v).toFixed(digits)}</td>`; }).join("")}</tr>`).join("") +
+    `</tbody></table></div>`;
+}
+
+let perfLoaded = false;
+$("perf").addEventListener("toggle", async () => {
+  if (!$("perf").open || perfLoaded) return;
+  perfLoaded = true;
+  try {
+    const d = await (await fetch("/api/metrics")).json();
+    if (d.error) throw new Error(d.error);
+    let h = "";
+    if (d.metrics.length) h += `<h3>F1 on clean test sets</h3>` + pivot(d.metrics, "model", "test_set", "f1", 3);
+    if (d.robustness.length) h += `<h3>Scam recall under obfuscation tests</h3>` + pivot(d.robustness, "model", "attack", "recall", 2);
+    if (d.retrieval) h += `<p class="muted">Knowledge-base retrieval: hit@1 ${Number(d.retrieval.hit_at_1).toFixed(3)}, hit@3 ${Number(d.retrieval.hit_at_3).toFixed(3)} (n=${d.retrieval.n}).</p>`;
+    h += `<div class="plots"><img src="/f1_comparison.png" alt="F1 comparison across models A–E" loading="lazy"><img src="/robustness_heatmap.png" alt="Robustness heatmap: recall per model and attack" loading="lazy"></div>`;
+    $("perfBody").innerHTML = h || `<span class="muted">Evaluation files are not available.</span>`;
+  } catch (err) {
+    perfLoaded = false;
+    $("perfBody").innerHTML = `<span class="muted">Could not load model results: ${esc(err.message)}</span>`;
+  }
+});
+</script>
+</body>
+</html>

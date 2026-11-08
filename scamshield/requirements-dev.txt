@@ -1,0 +1,12 @@
+# Full environment: training (src/train.py), plots and the Streamlit demo (app.py).
+numpy==2.5.4
+scipy==1.18.1
+scikit-learn==1.9.1
+joblib==1.6.0
+pandas
+matplotlib
+seaborn
+streamlit
+# optional (only for src/bert_train.py)
+# torch
+# transformers

@@ -1,0 +1,735 @@
+text,label,scam_type,hinglish
+Your appointment with Dr. Anil is confirmed for 12-09-25 at 4 pm.,0,ham,0
+"Your Kotak Bank credit card limit is increased to Rs 7,438. Verify card number and CVV to activate: cutt.ly/pd6kje",1,creditcard,0
+"Customs has seized your parcel. Pay Rs 44,662 clearance charge to release. Call 7060388923",1,courier,0
+Aapka mobile number aaj band ho jayega. Verification ke liye call karein 9480020477,1,simblock,1
+"Bank of Baroda: Never share your OTP, PIN or CVV with anyone, including bank staff.",0,ham,0
+Are we still on for dinner at 6:30 pm?,0,ham,0
+Thanks for shopping with Myntra. Your invoice is available in the app.,0,ham,0
+"Income Tax Dept: refund of Rs 12,932 pending. Submit bank details at cutt.ly/l0d421",1,taxrefund,0
+"Rs 29,773 credited to your a/c XX9466 on 21 Sep. Avl bal Rs 59,073.",0,ham,0
+Aapka mobile number aaj band ho jayega. Verification ke liye call karein 7261811592,1,simblock,1
+"Customs has seized your parcel. Pay Rs 1,228 clearance charge to release. Call 7350891765",1,courier,0
+"Kotak Bank Reward: 5930 points expiring today. Redeem Rs 54,921 cashback now tinyurl.com/phsgmard",1,reward,0
+"Dear SBI customer, your KYC has expired and your account will be blocked today. Update now: cutt.ly/d02is5",1,kyc,0
+"Rs 48,275 debited from A/c XX9375 on 5 Nov towards Zomato via UPI. Ref 517950896955. Not you? Contact your bank's official helpline.",0,ham,0
+OTP 295195 for your Zomato login. Do not disclose to anyone.,0,ham,0
+"Congratulations! You have won Rs 5,00,000 in KBC lucky draw. Call 8087159369 to claim your prize",1,lottery,0
+OTP 040659 for your Ola login. Do not disclose to anyone.,0,ham,0
+"Your Canara Bank credit card limit is increased to Rs 20,785. Verify card number and CVV to activate: bit.ly/5bu6ug9",1,creditcard,0
+Aapka mobile number aaj band ho jayega. Verification ke liye call karein 6188504893,1,simblock,1
+Are we still on for dinner at 10 am?,0,ham,0
+"Congratulations! You have won Rs 11,876 cashback on your Kotak Bank card. Claim now: https://kotak-login.site",1,reward,0
+Your appointment with Dr. Rahul is confirmed for 5 Nov at 8 pm.,0,ham,0
+Your Zomato order #5348 is out for delivery today. Track it at https://www.zomato.in/orders,0,ham,0
+653684 is your OTP for Paytm. Valid for 10 minutes. Do not share it with anyone.,0,ham,0
+Your Flipkart order #6604 is out for delivery today. Track it at https://www.flipkart.in/orders,0,ham,0
+Paytm refund Rs 541 pending. Scan QR on this link to receive cutt.ly/zpvnx3,1,upi_refund,0
+Your Swiggy order #8531 is out for delivery today. Track it at https://www.swiggy.in/orders,0,ham,0
+OTP 384322 for your Paytm login. Do not disclose to anyone.,0,ham,0
+"You received cashback of Rs 55,776. Enter UPI PIN to accept: cutt.ly/7gvd86",1,upi_refund,0
+"Congratulations! You have won Rs 20,093 cashback on your Kotak Bank card. Claim now: http://kotak-verify.xyz/x0fwk",1,reward,0
+Your Aadhaar will be deactivated today. Link mobile number now: cutt.ly/su1pvi,1,aadhaar,0
+"Hey Mehta, happy birthday! Party at 4 pm tonight?",0,ham,0
+"Power supply to be cut today. Bill of Rs 35,040 pending. Pay now: tinyurl.com/ap3g7ifc",1,electricity,0
+"Booking confirmed. Ref 0089523176, departs 5 pm from Mumbai Central.",0,ham,0
+"Hey Priya, happy birthday! Party at 6:30 pm tonight?",0,ham,0
+751049 is your OTP for IRCTC. Valid for 10 minutes. Do not share it with anyone.,0,ham,0
+URGENT! Complete KYC within 24 hours or PNB will freeze your account. Click cutt.ly/ymotdz or call 6369848578,1,kyc,0
+"Part time job offer: earn Rs 44,400 weekly. Pay Rs 199 registration fee to confirm. WhatsApp 8944310776",1,job,0
+"Fee receipt: Rs 20,290 received for Semester 0626. Thank you.",0,ham,0
+Your Aadhaar will be deactivated today. Link mobile number now: https://pnbonline.xyz,1,aadhaar,0
+India Post: delivery attempt failed. Update address in 24 hours or package will be returned. tinyurl.com/xl182rx6,1,courier,0
+"Your Canara Bank credit card limit is increased to Rs 16,153. Verify card number and CVV to activate: http://canara-verify.xyz/xz1l2",1,creditcard,0
+"Rs 58,136 credited to your a/c XX4181 on 5 Nov. Avl bal Rs 46,064.",0,ham,0
+"Aapne 25,00,000 ka inaam jeeta hai! Claim ke liye turant call karein 6344812461",1,lottery,1
+Your ride receipt for Rs 999 has been emailed to you. Thanks for riding with Zomato.,0,ham,0
+"Your HDFC Bank credit card limit is increased to Rs 49,790. Verify card number and CVV to activate: tinyurl.com/7zju2do9",1,creditcard,0
+"Booking confirmed. Ref 5732208290, departs 6:30 pm from Mumbai Central.",0,ham,0
+"Income Tax Dept: refund of Rs 22,005 pending. Submit bank details at cutt.ly/yubf5d",1,taxrefund,0
+"Work from home and earn Rs 9,027 per day. No experience needed. Join now https://icicionline.top",1,job,0
+"Work from home and earn Rs 12,762 per day. No experience needed. Join now https://bankofbarodaonline.xyz",1,job,0
+"Dear consumer, your electricity connection will be disconnected tonight at 9.30 pm due to unpaid bill. Call officer 9317664464 immediately",1,electricity,0
+"Your Canara Bank credit card limit is increased to Rs 54,989. Verify card number and CVV to activate: https://canara-care.top",1,creditcard,0
+"Congratulations! You have won Rs 5,00,000 in KBC lucky draw. Call 8730303394 to claim your prize",1,lottery,0
+"Congratulations! You have won Rs 10,406 cashback on your Bank of Baroda card. Claim now: https://bankofbaroda-care.xyz",1,reward,0
+"Rs 3,054 credited by mistake to your account. Please refund by approving the UPI collect request",1,upi_refund,0
+"Part time job offer: earn Rs 12,323 weekly. Pay Rs 999 registration fee to confirm. WhatsApp 7607293604",1,job,0
+Aapke 9429 reward points aaj expire ho rahe hain. Turant redeem karein bit.ly/yxp4qad,1,reward,1
+"Rs 46,711 debited from A/c XX6341 on 03-10-25 towards BigBasket via UPI. Ref 306358087609. Not you? Contact your bank's official helpline.",0,ham,0
+"You are eligible for IT refund Rs 21,814. Confirm account number within 24 hours bit.ly/u0lxgou",1,taxrefund,0
+Aapka HDFC Bank account band ho jayega. Aaj hi KYC update karein: bit.ly/q8nkm7w,1,kyc,1
+"Pre-approved loan of Rs 25,192 in 5 minutes, no documents. Processing fee Rs 199 only. Apply: cutt.ly/2sl43k",1,loan,0
+"Congratulations! You have won Rs 43,918 cashback on your PNB card. Claim now: bit.ly/ote4gej",1,reward,0
+"Fee receipt: Rs 5,381 received for Semester 5423. Thank you.",0,ham,0
+"Dear consumer, your electricity connection will be disconnected tonight at 9.30 pm due to unpaid bill. Call officer 6190978262 immediately",1,electricity,0
+"You received cashback of Rs 1,249. Enter UPI PIN to accept: cutt.ly/vizuzk",1,upi_refund,0
+Your Amazon order #4879 is out for delivery today. Track it at https://www.amazon.in/orders,0,ham,0
+"Ghar baithe Rs 30,721 roz kamayein. Abhi join karein cutt.ly/fqkao2",1,job,1
+Reminder: DBMS lab tomorrow at 8 pm. Bring your journals.,0,ham,0
+"PNB Reward: 5426 points expiring today. Redeem Rs 40,061 cashback now bit.ly/o2u40x8",1,reward,0
+"Bijli bill pending hai. Aaj raat connection kat jayega, turant call karein 7288166006",1,electricity,1
+"Instant loan chahiye? Sirf Aadhaar aur PAN se Rs 40,598 paayein: tinyurl.com/fpq05pu8",1,loan,1
+"Ghar baithe Rs 59,514 roz kamayein. Abhi join karein cutt.ly/ruug3m",1,job,1
+"You are eligible for IT refund Rs 1,864. Confirm account number within 24 hours bit.ly/w3tazau",1,taxrefund,0
+URGENT! Complete KYC within 24 hours or HDFC Bank will freeze your account. Click https://hdfconline.xyz or call 8486205798,1,kyc,0
+"Your electricity bill of Rs 17,730 for October is generated. Pay by the due date through the official app.",0,ham,0
+Your appointment with Dr. Rahul is confirmed for 12-09-25 at 8 pm.,0,ham,0
+"Rs 19,309 credited by mistake to your account. Please refund by approving the UPI collect request",1,upi_refund,0
+"Part time job offer: earn Rs 51,094 weekly. Pay Rs 199 registration fee to confirm. WhatsApp 6346682430",1,job,0
+Aapke 1774 reward points aaj expire ho rahe hain. Turant redeem karein https://sbi-care.top,1,reward,1
+"Fee receipt: Rs 8,503 received for Semester 7413. Thank you.",0,ham,0
+"Rs 9,562 credited to your a/c XX4034 on 5 Nov. Avl bal Rs 2,372.",0,ham,0
+"Rs 59,872 debited from A/c XX6501 on 5 Nov towards Zomato via UPI. Ref 418888632779. Not you? Contact your bank's official helpline.",0,ham,0
+Bhai kal 10 am baje milte hain canteen mein.,0,ham,1
+"Canara Bank Reward: 4808 points expiring today. Redeem Rs 59,876 cashback now bit.ly/8o5ixjy",1,reward,0
+"Income Tax Dept: refund of Rs 21,787 pending. Submit bank details at http://hdfc-kyc.click/9yy74",1,taxrefund,0
+"Aapne 25,00,000 ka inaam jeeta hai! Claim ke liye turant call karein 7186386528",1,lottery,1
+"Dear consumer, your electricity connection will be disconnected tonight at 9.30 pm due to unpaid bill. Call officer 8468657093 immediately",1,electricity,0
+Thanks for shopping with Amazon. Your invoice is available in the app.,0,ham,0
+"Your electricity bill of Rs 5,586 for October is generated. Pay by the due date through the official app.",0,ham,0
+"Instant loan chahiye? Sirf Aadhaar aur PAN se Rs 2,111 paayein: tinyurl.com/qsp0f9zx",1,loan,1
+Aapka SBI account band ho jayega. Aaj hi KYC update karein: bit.ly/kysa2wm,1,kyc,1
+Your SIM will be blocked in 2 hours as per TRAI rules. Call 8021027682 immediately for verification,1,simblock,0
+Aapka mobile number aaj band ho jayega. Verification ke liye call karein 7748456179,1,simblock,1
+Your parcel is on hold due to incomplete address. Pay Rs 499 redelivery fee here: cutt.ly/d9kmx4,1,courier,0
+Your loan is sanctioned. Pay insurance charge Rs 199 to release amount. Call 7203517732,1,loan,0
+"SBI Reward: 8748 points expiring today. Redeem Rs 27,095 cashback now https://sbi-login.site",1,reward,0
+URGENT! Complete KYC within 24 hours or Axis Bank will freeze your account. Click bit.ly/hvqdr91 or call 6639436991,1,kyc,0
+"PNR 0268881335: Your IRCTC ticket is confirmed. Coach S4, Berth 23.",0,ham,0
+"Work from home and earn Rs 3,235 per day. No experience needed. Join now https://icici-login.xyz",1,job,0
+"Your electricity bill of Rs 32,237 for September is generated. Pay by the due date through the official app.",0,ham,0
+"Aapne 5,00,000 ka inaam jeeta hai! Claim ke liye turant call karein 7949281939",1,lottery,1
+URGENT! Complete KYC within 24 hours or ICICI Bank will freeze your account. Click tinyurl.com/ncf10epf or call 6948219935,1,kyc,0
+"Your electricity bill of Rs 56,857 for October is generated. Pay by the due date through the official app.",0,ham,0
+Rs 499 debited from your Ola wallet for bill payment. Transaction ID 7453311231.,0,ham,0
+Your Aadhaar will be deactivated today. Link mobile number now: tinyurl.com/d28xgaum,1,aadhaar,0
+Aapke 5988 reward points aaj expire ho rahe hain. Turant redeem karein https://kotak-login.site,1,reward,1
+"Congratulations! You have won Rs 5,00,000 in KBC lucky draw. Call 7954624215 to claim your prize",1,lottery,0
+"You are eligible for IT refund Rs 2,937. Confirm account number within 24 hours tinyurl.com/fya8t5q6",1,taxrefund,0
+Aapke 8898 reward points aaj expire ho rahe hain. Turant redeem karein tinyurl.com/cbukh3kg,1,reward,1
+Rs 199 debited from your Swiggy wallet for bill payment. Transaction ID 8028261134.,0,ham,0
+"Bijli bill pending hai. Aaj raat connection kat jayega, turant call karein 7643122097",1,electricity,1
+"Income Tax Dept: refund of Rs 52,482 pending. Submit bank details at bit.ly/j289mjf",1,taxrefund,0
+"Axis Bank: Never share your OTP, PIN or CVV with anyone, including bank staff.",0,ham,0
+"Your electricity bill of Rs 48,764 for September is generated. Pay by the due date through the official app.",0,ham,0
+India Post: delivery attempt failed. Update address in 24 hours or package will be returned. bit.ly/7uoxtwr,1,courier,0
+Your appointment with Dr. Sneha is confirmed for 12-09-25 at 10 am.,0,ham,0
+"Rs 43,486 debited from A/c XX0443 on 12-09-25 towards Uber via UPI. Ref 457805012437. Not you? Contact your bank's official helpline.",0,ham,0
+SBI card blocked for suspicious activity. Share the OTP received to unblock. Call 6896287541,1,creditcard,0
+"You received cashback of Rs 10,983. Enter UPI PIN to accept: https://bankofbarodaonline.xyz",1,upi_refund,0
+OTP 730148 for your Swiggy login. Do not disclose to anyone.,0,ham,0
+"Dear consumer, your electricity connection will be disconnected tonight at 9.30 pm due to unpaid bill. Call officer 8622310161 immediately",1,electricity,0
+207596 is your OTP for IRCTC. Valid for 10 minutes. Do not share it with anyone.,0,ham,0
+"Fee receipt: Rs 17,531 received for Semester 9946. Thank you.",0,ham,0
+"Power supply to be cut today. Bill of Rs 31,200 pending. Pay now: https://pnb-login.top",1,electricity,0
+Bhai kal 4 pm baje milte hain canteen mein.,0,ham,1
+Your ride receipt for Rs 999 has been emailed to you. Thanks for riding with Ola.,0,ham,0
+"Dear SBI customer, your KYC has expired and your account will be blocked today. Update now: http://sbi-secure.xyz/yfkoz",1,kyc,0
+"Rs 22,562 credited by mistake to your account. Please refund by approving the UPI collect request",1,upi_refund,0
+Your appointment with Dr. Rahul is confirmed for 21 Sep at 4 pm.,0,ham,0
+Your Aadhaar will be deactivated today. Link mobile number now: http://sbi-secure.live/grgu0,1,aadhaar,0
+"Bijli bill pending hai. Aaj raat connection kat jayega, turant call karein 8450919002",1,electricity,1
+"Paytm refund Rs 51,525 pending. Scan QR on this link to receive bit.ly/zr1ivvc",1,upi_refund,0
+"Dinner ready hai, jaldi aa jao.",0,ham,0
+Your SIM will be blocked in 2 hours as per TRAI rules. Call 8286632922 immediately for verification,1,simblock,0
+Rs 99 debited from your Swiggy wallet for bill payment. Transaction ID 9132593807.,0,ham,0
+"Ghar baithe Rs 17,072 roz kamayein. Abhi join karein tinyurl.com/ox4jt5yn",1,job,1
+Rs 99 debited from your Zomato wallet for bill payment. Transaction ID 7077891785.,0,ham,0
+"You are eligible for IT refund Rs 30,311. Confirm account number within 24 hours http://sbi-kyc.live/k5su5",1,taxrefund,0
+Your parcel is on hold due to incomplete address. Pay Rs 25 redelivery fee here: https://sbi-care.top,1,courier,0
+You are selected for a free iPhone. Pay Rs 999 delivery charge: http://pnb-rewards.click/f7swm,1,lottery,0
+You are selected for a free iPhone. Pay Rs 999 delivery charge: https://kotak-care.site,1,lottery,0
+Rs 499 debited from your Zomato wallet for bill payment. Transaction ID 8758444733.,0,ham,0
+Rs 25 debited from your Zomato wallet for bill payment. Transaction ID 0601899398.,0,ham,0
+Your Amazon order has been shipped and will arrive by 5 Nov.,0,ham,0
+Aapke 1751 reward points aaj expire ho rahe hain. Turant redeem karein cutt.ly/xc2l1i,1,reward,1
+"Rs 38,750 credited by mistake to your account. Please refund by approving the UPI collect request",1,upi_refund,0
+"Congratulations! You have won Rs 6,982 cashback on your ICICI Bank card. Claim now: https://icicionline.xyz",1,reward,0
+Aapke 3045 reward points aaj expire ho rahe hain. Turant redeem karein cutt.ly/cogn2x,1,reward,1
+"Ghar baithe Rs 19,807 roz kamayein. Abhi join karein http://pnb-verify.xyz/1cxtz",1,job,1
+"Fee receipt: Rs 50,324 received for Semester 5176. Thank you.",0,ham,0
+India Post: delivery attempt failed. Update address in 24 hours or package will be returned. tinyurl.com/01jbjwop,1,courier,0
+"Hey Sneha, happy birthday! Party at 4 pm tonight?",0,ham,0
+"Pre-approved loan of Rs 58,755 in 5 minutes, no documents. Processing fee Rs 99 only. Apply: tinyurl.com/qlfgzj32",1,loan,0
+"Bijli bill pending hai. Aaj raat connection kat jayega, turant call karein 6858322362",1,electricity,1
+"You are eligible for IT refund Rs 10,405. Confirm account number within 24 hours cutt.ly/46a63h",1,taxrefund,0
+Your Zomato order has been shipped and will arrive by 03-10-25.,0,ham,0
+"Dear SBI customer, your KYC has expired and your account will be blocked today. Update now: bit.ly/35fvqg5",1,kyc,0
+Aapka mobile number aaj band ho jayega. Verification ke liye call karein 8261063047,1,simblock,1
+Your Swiggy order has been shipped and will arrive by 5 Nov.,0,ham,0
+"Your electricity bill of Rs 20,928 for August is generated. Pay by the due date through the official app.",0,ham,0
+"Pre-approved loan of Rs 34,584 in 5 minutes, no documents. Processing fee Rs 999 only. Apply: tinyurl.com/8jaki1tv",1,loan,0
+"Booking confirmed. Ref 6940711268, departs 10 am from Mumbai Central.",0,ham,0
+OTP 053221 for your Zomato login. Do not disclose to anyone.,0,ham,0
+"Power supply to be cut today. Bill of Rs 51,673 pending. Pay now: bit.ly/3q1t79y",1,electricity,0
+"Power supply to be cut today. Bill of Rs 6,645 pending. Pay now: https://bankofbaroda-care.xyz",1,electricity,0
+Your Aadhaar will be deactivated today. Link mobile number now: tinyurl.com/olzt13mm,1,aadhaar,0
+Your SIM will be blocked in 2 hours as per TRAI rules. Call 6215553373 immediately for verification,1,simblock,0
+Your loan is sanctioned. Pay insurance charge Rs 25 to release amount. Call 6544741968,1,loan,0
+"Bijli bill pending hai. Aaj raat connection kat jayega, turant call karein 8983115418",1,electricity,1
+"Dear Bank of Baroda customer, your KYC has expired and your account will be blocked today. Update now: bit.ly/sdxu64s",1,kyc,0
+Your Aadhaar will be deactivated today. Link mobile number now: cutt.ly/cgxk5o,1,aadhaar,0
+"Congratulations! You have won Rs 10,00,000 in KBC lucky draw. Call 7164923000 to claim your prize",1,lottery,0
+Your Aadhaar will be deactivated today. Link mobile number now: http://pnb-update.top/jmjv7,1,aadhaar,0
+Your Aadhaar will be deactivated today. Link mobile number now: https://bankofbaroda-care.site,1,aadhaar,0
+"Pre-approved loan of Rs 55,073 in 5 minutes, no documents. Processing fee Rs 25 only. Apply: cutt.ly/y51p9i",1,loan,0
+Your appointment with Dr. Anil is confirmed for 21 Sep at 5 pm.,0,ham,0
+Your SIM will be blocked in 2 hours as per TRAI rules. Call 7298066691 immediately for verification,1,simblock,0
+"Congratulations! You have won Rs 50,816 cashback on your Axis Bank card. Claim now: http://axis-verify.xyz/s5wb5",1,reward,0
+Kotak Bank card blocked for suspicious activity. Share the OTP received to unblock. Call 6651764461,1,creditcard,0
+Your ride receipt for Rs 99 has been emailed to you. Thanks for riding with Paytm.,0,ham,0
+Meeting moved to 8 pm tomorrow. Please update the team.,0,ham,0
+Your SIM will be blocked in 2 hours as per TRAI rules. Call 6255284905 immediately for verification,1,simblock,0
+URGENT! Complete KYC within 24 hours or SBI will freeze your account. Click tinyurl.com/g43yq15i or call 9107885261,1,kyc,0
+"Bijli bill pending hai. Aaj raat connection kat jayega, turant call karein 6501451728",1,electricity,1
+"You received cashback of Rs 42,310. Enter UPI PIN to accept: https://icicionline.xyz",1,upi_refund,0
+Thanks for shopping with Flipkart. Your invoice is available in the app.,0,ham,0
+"Customs has seized your parcel. Pay Rs 24,145 clearance charge to release. Call 9796330986",1,courier,0
+"Rs 26,663 credited by mistake to your account. Please refund by approving the UPI collect request",1,upi_refund,0
+"Hey Priya, happy birthday! Party at 5 pm tonight?",0,ham,0
+"Aapne 5,00,000 ka inaam jeeta hai! Claim ke liye turant call karein 7394898699",1,lottery,1
+"Income Tax Dept: refund of Rs 54,104 pending. Submit bank details at cutt.ly/fo2om8",1,taxrefund,0
+Rs 25 debited from your Paytm wallet for bill payment. Transaction ID 3167226126.,0,ham,0
+"Rs 23,743 credited by mistake to your account. Please refund by approving the UPI collect request",1,upi_refund,0
+"Instant loan chahiye? Sirf Aadhaar aur PAN se Rs 56,447 paayein: https://axis-care.site",1,loan,1
+"Part time job offer: earn Rs 49,571 weekly. Pay Rs 25 registration fee to confirm. WhatsApp 7144679800",1,job,0
+India Post: delivery attempt failed. Update address in 24 hours or package will be returned. https://sbionline.top,1,courier,0
+"Axis Bank Reward: 6757 points expiring today. Redeem Rs 58,908 cashback now https://axis-care.site",1,reward,0
+Kotak Bank ALERT: Your account is suspended due to pending KYC. Verify PAN immediately cutt.ly/hv8yvz,1,kyc,0
+"Your Axis Bank credit card limit is increased to Rs 40,464. Verify card number and CVV to activate: https://axis-care.site",1,creditcard,0
+"Your Bank of Baroda credit card limit is increased to Rs 43,983. Verify card number and CVV to activate: https://bankofbaroda-care.top",1,creditcard,0
+Your Myntra order #6964 is out for delivery today. Track it at https://www.myntra.in/orders,0,ham,0
+"Congratulations! You have won Rs 25,00,000 in KBC lucky draw. Call 8770708851 to claim your prize",1,lottery,0
+Your Flipkart order has been shipped and will arrive by 21 Sep.,0,ham,0
+"Booking confirmed. Ref 5332995726, departs 8 pm from Mumbai Central.",0,ham,0
+"PNR 4427622025: Your IRCTC ticket is confirmed. Coach S4, Berth 23.",0,ham,0
+"Bijli bill pending hai. Aaj raat connection kat jayega, turant call karein 8246815279",1,electricity,1
+Your Aadhaar will be deactivated today. Link mobile number now: https://sbi-login.site,1,aadhaar,0
+Aapka Canara Bank credit card block ho gaya hai. Unblock karne ke liye OTP bhejein.,1,creditcard,1
+Aapka mobile number aaj band ho jayega. Verification ke liye call karein 7155494519,1,simblock,1
+"Dear consumer, your electricity connection will be disconnected tonight at 9.30 pm due to unpaid bill. Call officer 6644008648 immediately",1,electricity,0
+"Congratulations! You have won Rs 25,00,000 in KBC lucky draw. Call 8541412738 to claim your prize",1,lottery,0
+Aapka mobile number aaj band ho jayega. Verification ke liye call karein 9890675357,1,simblock,1
+Are we still on for dinner at 5 pm?,0,ham,0
+Aapka mobile number aaj band ho jayega. Verification ke liye call karein 7392767990,1,simblock,1
+"Rs 9,867 debited from A/c XX3048 on 03-10-25 towards Zomato via UPI. Ref 215763945164. Not you? Contact your bank's official helpline.",0,ham,0
+"Aapne 10,00,000 ka inaam jeeta hai! Claim ke liye turant call karein 7354448705",1,lottery,1
+Aapke 2286 reward points aaj expire ho rahe hain. Turant redeem karein cutt.ly/zyshoa,1,reward,1
+"Your electricity bill of Rs 43,618 for August is generated. Pay by the due date through the official app.",0,ham,0
+"Your Bank of Baroda credit card limit is increased to Rs 26,250. Verify card number and CVV to activate: bit.ly/bi4bkdn",1,creditcard,0
+Meeting moved to 5 pm tomorrow. Please update the team.,0,ham,0
+Kal ka lecture kaun lega yaar?,0,ham,1
+473062 is your OTP for IRCTC. Valid for 10 minutes. Do not share it with anyone.,0,ham,0
+114057 is your OTP for Ola. Valid for 10 minutes. Do not share it with anyone.,0,ham,0
+Your parcel is on hold due to incomplete address. Pay Rs 25 redelivery fee here: bit.ly/1fsg1so,1,courier,0
+"Paytm refund Rs 35,222 pending. Scan QR on this link to receive bit.ly/r5x32uz",1,upi_refund,0
+Your appointment with Dr. Sneha is confirmed for 03-10-25 at 5 pm.,0,ham,0
+You are selected for a free iPhone. Pay Rs 999 delivery charge: cutt.ly/a2m8xr,1,lottery,0
+"Paytm refund Rs 9,382 pending. Scan QR on this link to receive cutt.ly/4np2bn",1,upi_refund,0
+Your SIM will be blocked in 2 hours as per TRAI rules. Call 6007765132 immediately for verification,1,simblock,0
+"Rs 18,817 debited from A/c XX1340 on 03-10-25 towards Amazon via UPI. Ref 452314147764. Not you? Contact your bank's official helpline.",0,ham,0
+"Income Tax Dept: refund of Rs 47,728 pending. Submit bank details at https://kotak-care.top",1,taxrefund,0
+"Power supply to be cut today. Bill of Rs 8,952 pending. Pay now: https://axisonline.site",1,electricity,0
+OTP 492869 for your Swiggy login. Do not disclose to anyone.,0,ham,0
+OTP 900078 for your Swiggy login. Do not disclose to anyone.,0,ham,0
+URGENT! Complete KYC within 24 hours or Bank of Baroda will freeze your account. Click cutt.ly/ofvupu or call 9886675095,1,kyc,0
+"Booking confirmed. Ref 0872665410, departs 6:30 pm from Mumbai Central.",0,ham,0
+"Income Tax Dept: refund of Rs 26,189 pending. Submit bank details at cutt.ly/rfzgzc",1,taxrefund,0
+Aadhaar verification pending. Reply with Aadhaar number and OTP to avoid penalty.,1,aadhaar,0
+Reminder: DBMS lab tomorrow at 6:30 pm. Bring your journals.,0,ham,0
+"Congratulations! You have won Rs 5,00,000 in KBC lucky draw. Call 8609917688 to claim your prize",1,lottery,0
+"Rs 52,611 credited to your a/c XX4688 on 12-09-25. Avl bal Rs 56,094.",0,ham,0
+Bhai kal 5 pm baje milte hain canteen mein.,0,ham,1
+"Your electricity bill of Rs 17,541 for August is generated. Pay by the due date through the official app.",0,ham,0
+"PNR 4948893790: Your IRCTC ticket is confirmed. Coach S4, Berth 23.",0,ham,0
+Your Aadhaar will be deactivated today. Link mobile number now: tinyurl.com/y58fbdww,1,aadhaar,0
+"Part time job offer: earn Rs 52,056 weekly. Pay Rs 99 registration fee to confirm. WhatsApp 9799262409",1,job,0
+Meeting moved to 10 am tomorrow. Please update the team.,0,ham,0
+"Paytm refund Rs 25,965 pending. Scan QR on this link to receive https://icici-care.top",1,upi_refund,0
+"Aapne 10,00,000 ka inaam jeeta hai! Claim ke liye turant call karein 7519510015",1,lottery,1
+"Fee receipt: Rs 34,215 received for Semester 9588. Thank you.",0,ham,0
+"Bijli bill pending hai. Aaj raat connection kat jayega, turant call karein 7224609711",1,electricity,1
+"You are eligible for IT refund Rs 2,250. Confirm account number within 24 hours http://axis-update.live/jg703",1,taxrefund,0
+"Customs has seized your parcel. Pay Rs 43,299 clearance charge to release. Call 6915162137",1,courier,0
+Your SIM will be blocked in 2 hours as per TRAI rules. Call 6954288262 immediately for verification,1,simblock,0
+"PNR 3573819106: Your IRCTC ticket is confirmed. Coach S4, Berth 23.",0,ham,0
+Your SIM will be blocked in 2 hours as per TRAI rules. Call 6470424837 immediately for verification,1,simblock,0
+"Ghar baithe Rs 46,612 roz kamayein. Abhi join karein http://axis-verify.click/z70o7",1,job,1
+"Bijli bill pending hai. Aaj raat connection kat jayega, turant call karein 9036663584",1,electricity,1
+Your Aadhaar will be deactivated today. Link mobile number now: cutt.ly/jq8h7a,1,aadhaar,0
+Kotak Bank ALERT: Your account is suspended due to pending KYC. Verify PAN immediately bit.ly/21tbic1,1,kyc,0
+"Rs 32,500 debited from A/c XX0092 on 03-10-25 towards Zomato via UPI. Ref 060441233839. Not you? Contact your bank's official helpline.",0,ham,0
+"Rs 26,158 credited to your a/c XX2945 on 03-10-25. Avl bal Rs 30,170.",0,ham,0
+"Hey Priya, happy birthday! Party at 10 am tonight?",0,ham,0
+"Work from home and earn Rs 18,400 per day. No experience needed. Join now cutt.ly/dzqpdb",1,job,0
+"Rs 36,612 credited by mistake to your account. Please refund by approving the UPI collect request",1,upi_refund,0
+"Paytm refund Rs 42,672 pending. Scan QR on this link to receive bit.ly/jjz1z61",1,upi_refund,0
+Your Flipkart order has been shipped and will arrive by 12-09-25.,0,ham,0
+HDFC Bank ALERT: Your account is suspended due to pending KYC. Verify PAN immediately bit.ly/h3av90r,1,kyc,0
+"Part time job offer: earn Rs 51,361 weekly. Pay Rs 25 registration fee to confirm. WhatsApp 7704087092",1,job,0
+"PNR 7316579953: Your IRCTC ticket is confirmed. Coach S4, Berth 23.",0,ham,0
+034333 is your OTP for Ola. Valid for 10 minutes. Do not share it with anyone.,0,ham,0
+"Your Bank of Baroda credit card limit is increased to Rs 19,448. Verify card number and CVV to activate: bit.ly/r7xiaq8",1,creditcard,0
+"Aapne 10,00,000 ka inaam jeeta hai! Claim ke liye turant call karein 6115438035",1,lottery,1
+"Rs 2,085 credited to your a/c XX6823 on 03-10-25. Avl bal Rs 54,918.",0,ham,0
+Aapka mobile number aaj band ho jayega. Verification ke liye call karein 6786101984,1,simblock,1
+URGENT! Complete KYC within 24 hours or Bank of Baroda will freeze your account. Click bit.ly/mfltw3w or call 7901195203,1,kyc,0
+Rs 199 debited from your Zomato wallet for bill payment. Transaction ID 1192149272.,0,ham,0
+Recharge of Rs 999 successful. Validity 28 days. Thank you for choosing Jio.,0,ham,0
+Aapka mobile number aaj band ho jayega. Verification ke liye call karein 8075173886,1,simblock,1
+Work from home and earn Rs 624 per day. No experience needed. Join now cutt.ly/6ghihh,1,job,0
+"Congratulations! You have won Rs 28,467 cashback on your PNB card. Claim now: http://pnb-kyc.click/2qf2x",1,reward,0
+"Customs has seized your parcel. Pay Rs 13,541 clearance charge to release. Call 6945953653",1,courier,0
+Aapka Bank of Baroda account band ho jayega. Aaj hi KYC update karein: bit.ly/9jvoq4c,1,kyc,1
+Aapka Canara Bank account band ho jayega. Aaj hi KYC update karein: tinyurl.com/0hz2uep1,1,kyc,1
+PNB ALERT: Your account is suspended due to pending KYC. Verify PAN immediately tinyurl.com/6dn16i5m,1,kyc,0
+"Running late, will reach by 5 pm.",0,ham,0
+"Income Tax Dept: refund of Rs 4,642 pending. Submit bank details at https://canara-care.top",1,taxrefund,0
+"Dear consumer, your electricity connection will be disconnected tonight at 9.30 pm due to unpaid bill. Call officer 6481701903 immediately",1,electricity,0
+OTP 671649 for your Ola login. Do not disclose to anyone.,0,ham,0
+"Fee receipt: Rs 12,142 received for Semester 2012. Thank you.",0,ham,0
+"Instant loan chahiye? Sirf Aadhaar aur PAN se Rs 37,744 paayein: http://axis-verify.live/pp20l",1,loan,1
+You are selected for a free iPhone. Pay Rs 499 delivery charge: https://icicionline.site,1,lottery,0
+Recharge of Rs 499 successful. Validity 28 days. Thank you for choosing Vi.,0,ham,0
+"You are eligible for IT refund Rs 29,198. Confirm account number within 24 hours https://hdfc-login.site",1,taxrefund,0
+"PNR 5896107431: Your IRCTC ticket is confirmed. Coach S4, Berth 23.",0,ham,0
+Your Aadhaar will be deactivated today. Link mobile number now: bit.ly/2afnrtm,1,aadhaar,0
+"Paytm refund Rs 8,439 pending. Scan QR on this link to receive https://canara-care.site",1,upi_refund,0
+"Work from home and earn Rs 53,874 per day. No experience needed. Join now bit.ly/isy8thw",1,job,0
+"Rs 29,884 credited by mistake to your account. Please refund by approving the UPI collect request",1,upi_refund,0
+"PNR 7759886303: Your IRCTC ticket is confirmed. Coach S4, Berth 23.",0,ham,0
+"Your PNB credit card limit is increased to Rs 13,581. Verify card number and CVV to activate: cutt.ly/orb9vn",1,creditcard,0
+"PNR 6942773978: Your IRCTC ticket is confirmed. Coach S4, Berth 23.",0,ham,0
+"Hey Anil, happy birthday! Party at 4 pm tonight?",0,ham,0
+Your Flipkart order has been shipped and will arrive by 5 Nov.,0,ham,0
+"Income Tax Dept: refund of Rs 12,450 pending. Submit bank details at tinyurl.com/5kopyxwr",1,taxrefund,0
+Your loan is sanctioned. Pay insurance charge Rs 499 to release amount. Call 6458932851,1,loan,0
+Your Flipkart order #3794 is out for delivery today. Track it at https://www.flipkart.in/orders,0,ham,0
+Aapke 3002 reward points aaj expire ho rahe hain. Turant redeem karein tinyurl.com/x1aaq5km,1,reward,1
+Rs 99 debited from your Swiggy wallet for bill payment. Transaction ID 2064325596.,0,ham,0
+Aapke 5642 reward points aaj expire ho rahe hain. Turant redeem karein http://icici-update.xyz/rzs2h,1,reward,1
+"Customs has seized your parcel. Pay Rs 15,120 clearance charge to release. Call 9747271061",1,courier,0
+Your Aadhaar will be deactivated today. Link mobile number now: tinyurl.com/ydal8zyy,1,aadhaar,0
+"Your electricity bill of Rs 20,480 for October is generated. Pay by the due date through the official app.",0,ham,0
+Aapka PNB credit card block ho gaya hai. Unblock karne ke liye OTP bhejein.,1,creditcard,1
+Are we still on for dinner at 4 pm?,0,ham,0
+"Rs 43,914 debited from A/c XX7171 on 03-10-25 towards Uber via UPI. Ref 514009829903. Not you? Contact your bank's official helpline.",0,ham,0
+"You received cashback of Rs 39,298. Enter UPI PIN to accept: https://kotak-login.top",1,upi_refund,0
+"Part time job offer: earn Rs 37,329 weekly. Pay Rs 99 registration fee to confirm. WhatsApp 7940666645",1,job,0
+"Rs 23,075 credited to your a/c XX0942 on 03-10-25. Avl bal Rs 38,703.",0,ham,0
+"Booking confirmed. Ref 9784264818, departs 8 pm from Mumbai Central.",0,ham,0
+"PNR 4340754041: Your IRCTC ticket is confirmed. Coach S4, Berth 23.",0,ham,0
+"PNR 3416980148: Your IRCTC ticket is confirmed. Coach S4, Berth 23.",0,ham,0
+"Rs 17,447 credited by mistake to your account. Please refund by approving the UPI collect request",1,upi_refund,0
+"Kotak Bank: Never share your OTP, PIN or CVV with anyone, including bank staff.",0,ham,0
+India Post: delivery attempt failed. Update address in 24 hours or package will be returned. http://kotak-kyc.click/pcwt4,1,courier,0
+Assignment submit kar diya kya? Last date kal hai.,0,ham,1
+Recharge of Rs 25 successful. Validity 28 days. Thank you for choosing Airtel.,0,ham,0
+Your appointment with Dr. Mehta is confirmed for 5 Nov at 10 am.,0,ham,0
+Your Aadhaar will be deactivated today. Link mobile number now: https://axis-login.xyz,1,aadhaar,0
+"Income Tax Dept: refund of Rs 23,118 pending. Submit bank details at tinyurl.com/4e8xltkj",1,taxrefund,0
+"Booking confirmed. Ref 0651703757, departs 4 pm from Mumbai Central.",0,ham,0
+"Power supply to be cut today. Bill of Rs 51,818 pending. Pay now: http://sbi-secure.click/6xmr7",1,electricity,0
+"Bank of Baroda Reward: 9065 points expiring today. Redeem Rs 56,763 cashback now https://bankofbaroda-login.xyz",1,reward,0
+"Customs has seized your parcel. Pay Rs 7,234 clearance charge to release. Call 7045391651",1,courier,0
+Your Aadhaar will be deactivated today. Link mobile number now: http://axis-update.top/1htcs,1,aadhaar,0
+Rs 25 debited from your IRCTC wallet for bill payment. Transaction ID 1769618544.,0,ham,0
+"Power supply to be cut today. Bill of Rs 44,398 pending. Pay now: http://icici-update.live/4kz4k",1,electricity,0
+"You received cashback of Rs 13,168. Enter UPI PIN to accept: http://icici-verify.click/7lz01",1,upi_refund,0
+"Customs has seized your parcel. Pay Rs 34,038 clearance charge to release. Call 6272981560",1,courier,0
+"Ghar baithe Rs 1,334 roz kamayein. Abhi join karein cutt.ly/mgeubp",1,job,1
+"Bijli bill pending hai. Aaj raat connection kat jayega, turant call karein 6229806023",1,electricity,1
+Your ride receipt for Rs 499 has been emailed to you. Thanks for riding with Swiggy.,0,ham,0
+Reminder: DBMS lab tomorrow at 5 pm. Bring your journals.,0,ham,0
+Aapka mobile number aaj band ho jayega. Verification ke liye call karein 6588093154,1,simblock,1
+"Congratulations! You have won Rs 10,00,000 in KBC lucky draw. Call 9825331992 to claim your prize",1,lottery,0
+Your Myntra order #1073 is out for delivery today. Track it at https://www.myntra.in/orders,0,ham,0
+India Post: delivery attempt failed. Update address in 24 hours or package will be returned. tinyurl.com/nru8yj0v,1,courier,0
+Your appointment with Dr. Priya is confirmed for 5 Nov at 8 pm.,0,ham,0
+SBI ALERT: Your account is suspended due to pending KYC. Verify PAN immediately tinyurl.com/6afqfjzc,1,kyc,0
+"Your SBI credit card limit is increased to Rs 49,726. Verify card number and CVV to activate: tinyurl.com/a6r0yy5d",1,creditcard,0
+"Rs 18,631 debited from A/c XX3775 on 03-10-25 towards BigBasket via UPI. Ref 533915623090. Not you? Contact your bank's official helpline.",0,ham,0
+Your loan is sanctioned. Pay insurance charge Rs 999 to release amount. Call 7443462340,1,loan,0
+Your Amazon order has been shipped and will arrive by 12-09-25.,0,ham,0
+"Kotak Bank Reward: 5375 points expiring today. Redeem Rs 12,396 cashback now https://kotakonline.site",1,reward,0
+"Instant loan chahiye? Sirf Aadhaar aur PAN se Rs 40,437 paayein: bit.ly/z0talvy",1,loan,1
+Your ride receipt for Rs 99 has been emailed to you. Thanks for riding with Swiggy.,0,ham,0
+Your Amazon order #8200 is out for delivery today. Track it at https://www.amazon.in/orders,0,ham,0
+Your loan is sanctioned. Pay insurance charge Rs 199 to release amount. Call 7917898878,1,loan,0
+Thanks for shopping with Zomato. Your invoice is available in the app.,0,ham,0
+"Income Tax Dept: refund of Rs 57,709 pending. Submit bank details at cutt.ly/4kexol",1,taxrefund,0
+"Hey Rahul, happy birthday! Party at 10 am tonight?",0,ham,0
+URGENT! Complete KYC within 24 hours or SBI will freeze your account. Click cutt.ly/jgvq4k or call 6485253888,1,kyc,0
+"Hey Mehta, happy birthday! Party at 10 am tonight?",0,ham,0
+Aapka mobile number aaj band ho jayega. Verification ke liye call karein 7640266068,1,simblock,1
+Your loan is sanctioned. Pay insurance charge Rs 99 to release amount. Call 9708130337,1,loan,0
+Your Aadhaar will be deactivated today. Link mobile number now: tinyurl.com/dyp7hp8f,1,aadhaar,0
+"Congratulations! You have won Rs 1,490 cashback on your Bank of Baroda card. Claim now: tinyurl.com/4tjqggph",1,reward,0
+"Rs 37,107 debited from A/c XX0717 on 12-09-25 towards Uber via UPI. Ref 794306983286. Not you? Contact your bank's official helpline.",0,ham,0
+"Pre-approved loan of Rs 56,306 in 5 minutes, no documents. Processing fee Rs 999 only. Apply: https://bankofbarodaonline.site",1,loan,0
+Aapka PNB account band ho jayega. Aaj hi KYC update karein: http://pnb-verify.xyz/myjjt,1,kyc,1
+"Part time job offer: earn Rs 55,884 weekly. Pay Rs 199 registration fee to confirm. WhatsApp 8333782475",1,job,0
+Your loan is sanctioned. Pay insurance charge Rs 999 to release amount. Call 7267713169,1,loan,0
+"You are eligible for IT refund Rs 24,144. Confirm account number within 24 hours tinyurl.com/1rp327vn",1,taxrefund,0
+"Pre-approved loan of Rs 58,689 in 5 minutes, no documents. Processing fee Rs 199 only. Apply: https://bankofbaroda-login.top",1,loan,0
+Rs 999 debited from your IRCTC wallet for bill payment. Transaction ID 1792179393.,0,ham,0
+Rs 199 debited from your Ola wallet for bill payment. Transaction ID 7345686502.,0,ham,0
+You are selected for a free iPhone. Pay Rs 499 delivery charge: https://sbionline.top,1,lottery,0
+"You are eligible for IT refund Rs 9,573. Confirm account number within 24 hours cutt.ly/gz6wvk",1,taxrefund,0
+OTP 864765 for your Paytm login. Do not disclose to anyone.,0,ham,0
+"PNB: Never share your OTP, PIN or CVV with anyone, including bank staff.",0,ham,0
+"Fee receipt: Rs 53,386 received for Semester 8784. Thank you.",0,ham,0
+Aapka mobile number aaj band ho jayega. Verification ke liye call karein 8661364937,1,simblock,1
+"Dear consumer, your electricity connection will be disconnected tonight at 9.30 pm due to unpaid bill. Call officer 7272762246 immediately",1,electricity,0
+"Pre-approved loan of Rs 43,993 in 5 minutes, no documents. Processing fee Rs 199 only. Apply: cutt.ly/j60x6q",1,loan,0
+"Your PNB credit card limit is increased to Rs 40,583. Verify card number and CVV to activate: bit.ly/lom11y4",1,creditcard,0
+"Aapne 25,00,000 ka inaam jeeta hai! Claim ke liye turant call karein 6883992800",1,lottery,1
+"Income Tax Dept: refund of Rs 35,393 pending. Submit bank details at cutt.ly/uh0kzq",1,taxrefund,0
+Rs 999 debited from your Zomato wallet for bill payment. Transaction ID 0331023688.,0,ham,0
+"Bijli bill pending hai. Aaj raat connection kat jayega, turant call karein 7224756147",1,electricity,1
+"Bijli bill pending hai. Aaj raat connection kat jayega, turant call karein 6947921851",1,electricity,1
+Your parcel is on hold due to incomplete address. Pay Rs 99 redelivery fee here: https://icici-login.site,1,courier,0
+"Rs 31,146 debited from A/c XX7042 on 5 Nov towards Amazon via UPI. Ref 091784362858. Not you? Contact your bank's official helpline.",0,ham,0
+"Rs 50,400 credited by mistake to your account. Please refund by approving the UPI collect request",1,upi_refund,0
+Axis Bank ALERT: Your account is suspended due to pending KYC. Verify PAN immediately https://axis-care.site,1,kyc,0
+Are we still on for dinner at 8 pm?,0,ham,0
+Aapka mobile number aaj band ho jayega. Verification ke liye call karein 6892206831,1,simblock,1
+Your Aadhaar will be deactivated today. Link mobile number now: http://hdfc-kyc.xyz/2sdr2,1,aadhaar,0
+"Rs 57,659 credited by mistake to your account. Please refund by approving the UPI collect request",1,upi_refund,0
+"Instant loan chahiye? Sirf Aadhaar aur PAN se Rs 59,327 paayein: cutt.ly/jl9zrp",1,loan,1
+Aapka Axis Bank credit card block ho gaya hai. Unblock karne ke liye OTP bhejein.,1,creditcard,1
+Your loan is sanctioned. Pay insurance charge Rs 999 to release amount. Call 8627749148,1,loan,0
+Aapka ICICI Bank credit card block ho gaya hai. Unblock karne ke liye OTP bhejein.,1,creditcard,1
+Your Aadhaar will be deactivated today. Link mobile number now: cutt.ly/jeu3q0,1,aadhaar,0
+Your Zomato order #5990 is out for delivery today. Track it at https://www.zomato.in/orders,0,ham,0
+Rs 99 debited from your Zomato wallet for bill payment. Transaction ID 5958347443.,0,ham,0
+Recharge of Rs 499 successful. Validity 28 days. Thank you for choosing Airtel.,0,ham,0
+Your Flipkart order #7063 is out for delivery today. Track it at https://www.flipkart.in/orders,0,ham,0
+You are selected for a free iPhone. Pay Rs 25 delivery charge: http://icici-kyc.top/pwv54,1,lottery,0
+SBI card blocked for suspicious activity. Share the OTP received to unblock. Call 8926351537,1,creditcard,0
+"Customs has seized your parcel. Pay Rs 11,598 clearance charge to release. Call 9702203848",1,courier,0
+Aapka mobile number aaj band ho jayega. Verification ke liye call karein 6544155584,1,simblock,1
+Your Zomato order has been shipped and will arrive by 5 Nov.,0,ham,0
+"Part time job offer: earn Rs 38,490 weekly. Pay Rs 499 registration fee to confirm. WhatsApp 7706540793",1,job,0
+Your ride receipt for Rs 999 has been emailed to you. Thanks for riding with Paytm.,0,ham,0
+Your appointment with Dr. Anil is confirmed for 03-10-25 at 4 pm.,0,ham,0
+"Fee receipt: Rs 54,243 received for Semester 4295. Thank you.",0,ham,0
+Your loan is sanctioned. Pay insurance charge Rs 499 to release amount. Call 7712606518,1,loan,0
+"Power supply to be cut today. Bill of Rs 34,318 pending. Pay now: http://axis-verify.live/dpbkq",1,electricity,0
+"Rs 26,309 debited from A/c XX4934 on 03-10-25 towards BigBasket via UPI. Ref 574190709871. Not you? Contact your bank's official helpline.",0,ham,0
+"You are eligible for IT refund Rs 20,830. Confirm account number within 24 hours cutt.ly/k2u1jh",1,taxrefund,0
+Your Zomato order #5285 is out for delivery today. Track it at https://www.zomato.in/orders,0,ham,0
+"SBI Reward: 4219 points expiring today. Redeem Rs 7,457 cashback now http://sbi-verify.xyz/qfvfv",1,reward,0
+478397 is your OTP for Zomato. Valid for 10 minutes. Do not share it with anyone.,0,ham,0
+"Booking confirmed. Ref 1472050408, departs 6:30 pm from Mumbai Central.",0,ham,0
+"Dear consumer, your electricity connection will be disconnected tonight at 9.30 pm due to unpaid bill. Call officer 6686750972 immediately",1,electricity,0
+Recharge of Rs 199 successful. Validity 28 days. Thank you for choosing Airtel.,0,ham,0
+"Hey Rahul, happy birthday! Party at 5 pm tonight?",0,ham,0
+Your Aadhaar will be deactivated today. Link mobile number now: bit.ly/he6xbic,1,aadhaar,0
+"Dear HDFC Bank customer, your KYC has expired and your account will be blocked today. Update now: bit.ly/c0aat9a",1,kyc,0
+You are selected for a free iPhone. Pay Rs 999 delivery charge: http://pnb-verify.click/kgbi8,1,lottery,0
+"Rs 36,602 credited by mistake to your account. Please refund by approving the UPI collect request",1,upi_refund,0
+"Power supply to be cut today. Bill of Rs 47,902 pending. Pay now: tinyurl.com/w99x2rie",1,electricity,0
+India Post: delivery attempt failed. Update address in 24 hours or package will be returned. tinyurl.com/oshph5mp,1,courier,0
+"Fee receipt: Rs 51,782 received for Semester 3088. Thank you.",0,ham,0
+Aapka Canara Bank account band ho jayega. Aaj hi KYC update karein: tinyurl.com/sywb3wkh,1,kyc,1
+Your Amazon order #6816 is out for delivery today. Track it at https://www.amazon.in/orders,0,ham,0
+Aapka Kotak Bank account band ho jayega. Aaj hi KYC update karein: http://kotak-verify.click/axg7l,1,kyc,1
+"Dear consumer, your electricity connection will be disconnected tonight at 9.30 pm due to unpaid bill. Call officer 6427333209 immediately",1,electricity,0
+"Income Tax Dept: refund of Rs 50,241 pending. Submit bank details at bit.ly/x0a3lkl",1,taxrefund,0
+"Axis Bank Reward: 6775 points expiring today. Redeem Rs 15,792 cashback now tinyurl.com/x6hhr26z",1,reward,0
+"Part time job offer: earn Rs 58,563 weekly. Pay Rs 25 registration fee to confirm. WhatsApp 8268836411",1,job,0
+"PNR 9623122407: Your IRCTC ticket is confirmed. Coach S4, Berth 23.",0,ham,0
+"Part time job offer: earn Rs 18,089 weekly. Pay Rs 499 registration fee to confirm. WhatsApp 7070589379",1,job,0
+Aapka mobile number aaj band ho jayega. Verification ke liye call karein 7637496429,1,simblock,1
+"Pre-approved loan of Rs 13,051 in 5 minutes, no documents. Processing fee Rs 99 only. Apply: tinyurl.com/ulgjm99i",1,loan,0
+Rs 499 debited from your IRCTC wallet for bill payment. Transaction ID 8291444954.,0,ham,0
+"Rs 17,921 debited from A/c XX8429 on 5 Nov towards Zomato via UPI. Ref 732783858253. Not you? Contact your bank's official helpline.",0,ham,0
+Your Amazon order #7087 is out for delivery today. Track it at https://www.amazon.in/orders,0,ham,0
+"Power supply to be cut today. Bill of Rs 41,347 pending. Pay now: https://pnb-login.top",1,electricity,0
+"You are eligible for IT refund Rs 18,392. Confirm account number within 24 hours bit.ly/9780u10",1,taxrefund,0
+Your Aadhaar will be deactivated today. Link mobile number now: tinyurl.com/i3smy5h9,1,aadhaar,0
+519758 is your OTP for Swiggy. Valid for 10 minutes. Do not share it with anyone.,0,ham,0
+India Post: delivery attempt failed. Update address in 24 hours or package will be returned. http://canara-verify.top/n536x,1,courier,0
+"You received cashback of Rs 4,596. Enter UPI PIN to accept: https://bankofbarodaonline.xyz",1,upi_refund,0
+"Your electricity bill of Rs 45,654 for September is generated. Pay by the due date through the official app.",0,ham,0
+"Rs 26,457 credited by mistake to your account. Please refund by approving the UPI collect request",1,upi_refund,0
+Your SIM will be blocked in 2 hours as per TRAI rules. Call 6328337277 immediately for verification,1,simblock,0
+"Congratulations! You have won Rs 5,00,000 in KBC lucky draw. Call 6498129712 to claim your prize",1,lottery,0
+Your Aadhaar will be deactivated today. Link mobile number now: cutt.ly/81tomk,1,aadhaar,0
+Aapka SBI account band ho jayega. Aaj hi KYC update karein: https://sbi-care.xyz,1,kyc,1
+"Your electricity bill of Rs 52,463 for August is generated. Pay by the due date through the official app.",0,ham,0
+"Paytm refund Rs 16,165 pending. Scan QR on this link to receive tinyurl.com/bn1ug4ka",1,upi_refund,0
+Your parcel is on hold due to incomplete address. Pay Rs 999 redelivery fee here: tinyurl.com/vtsi1ppo,1,courier,0
+Your ride receipt for Rs 499 has been emailed to you. Thanks for riding with IRCTC.,0,ham,0
+"Hey Sneha, happy birthday! Party at 10 am tonight?",0,ham,0
+"Your electricity bill of Rs 39,775 for August is generated. Pay by the due date through the official app.",0,ham,0
+"Pre-approved loan of Rs 51,543 in 5 minutes, no documents. Processing fee Rs 25 only. Apply: https://kotak-care.site",1,loan,0
+"Bijli bill pending hai. Aaj raat connection kat jayega, turant call karein 8611383581",1,electricity,1
+"Paytm refund Rs 40,443 pending. Scan QR on this link to receive https://kotak-care.top",1,upi_refund,0
+"Fee receipt: Rs 17,647 received for Semester 0286. Thank you.",0,ham,0
+"Income Tax Dept: refund of Rs 3,201 pending. Submit bank details at https://canaraonline.xyz",1,taxrefund,0
+Your SIM will be blocked in 2 hours as per TRAI rules. Call 9135248009 immediately for verification,1,simblock,0
+"Customs has seized your parcel. Pay Rs 22,654 clearance charge to release. Call 8406995763",1,courier,0
+"Running late, will reach by 8 pm.",0,ham,0
+"Dear SBI customer, your KYC has expired and your account will be blocked today. Update now: cutt.ly/koewqk",1,kyc,0
+"Rs 41,115 credited to your a/c XX2136 on 12-09-25. Avl bal Rs 44,057.",0,ham,0
+Meeting moved to 6:30 pm tomorrow. Please update the team.,0,ham,0
+"Kotak Bank Reward: 6639 points expiring today. Redeem Rs 35,366 cashback now https://kotak-login.top",1,reward,0
+"Rs 3,621 credited by mistake to your account. Please refund by approving the UPI collect request",1,upi_refund,0
+"Pre-approved loan of Rs 20,203 in 5 minutes, no documents. Processing fee Rs 999 only. Apply: https://icicionline.xyz",1,loan,0
+"Congratulations! You have won Rs 10,00,000 in KBC lucky draw. Call 8651599805 to claim your prize",1,lottery,0
+"You received cashback of Rs 43,211. Enter UPI PIN to accept: bit.ly/t9oghqg",1,upi_refund,0
+Your parcel is on hold due to incomplete address. Pay Rs 499 redelivery fee here: tinyurl.com/7g1u030j,1,courier,0
+Your Aadhaar will be deactivated today. Link mobile number now: cutt.ly/srcs7k,1,aadhaar,0
+"Work from home and earn Rs 54,238 per day. No experience needed. Join now https://axis-login.xyz",1,job,0
+"Your electricity bill of Rs 22,663 for October is generated. Pay by the due date through the official app.",0,ham,0
+"Part time job offer: earn Rs 19,392 weekly. Pay Rs 25 registration fee to confirm. WhatsApp 8352007025",1,job,0
+"Your SBI credit card limit is increased to Rs 26,948. Verify card number and CVV to activate: cutt.ly/0an2wg",1,creditcard,0
+Aapka mobile number aaj band ho jayega. Verification ke liye call karein 6787541295,1,simblock,1
+613333 is your OTP for Paytm. Valid for 10 minutes. Do not share it with anyone.,0,ham,0
+"Customs has seized your parcel. Pay Rs 50,246 clearance charge to release. Call 8582491678",1,courier,0
+Your parcel is on hold due to incomplete address. Pay Rs 25 redelivery fee here: bit.ly/a99k64n,1,courier,0
+Bhai kal 8 pm baje milte hain canteen mein.,0,ham,1
+"Congratulations! You have won Rs 13,000 cashback on your HDFC Bank card. Claim now: cutt.ly/6r1xer",1,reward,0
+"Pre-approved loan of Rs 48,983 in 5 minutes, no documents. Processing fee Rs 499 only. Apply: http://canara-secure.live/84w0z",1,loan,0
+"Bijli bill pending hai. Aaj raat connection kat jayega, turant call karein 6841964718",1,electricity,1
+"Your Axis Bank credit card limit is increased to Rs 13,791. Verify card number and CVV to activate: bit.ly/sqrq31v",1,creditcard,0
+"You are eligible for IT refund Rs 44,604. Confirm account number within 24 hours tinyurl.com/s2zbzorm",1,taxrefund,0
+"Your HDFC Bank credit card limit is increased to Rs 1,745. Verify card number and CVV to activate: https://hdfconline.site",1,creditcard,0
+"Congratulations! You have won Rs 10,00,000 in KBC lucky draw. Call 8879410797 to claim your prize",1,lottery,0
+Aapka Bank of Baroda credit card block ho gaya hai. Unblock karne ke liye OTP bhejein.,1,creditcard,1
+"Ghar baithe Rs 10,478 roz kamayein. Abhi join karein tinyurl.com/j48nc5ok",1,job,1
+"Bijli bill pending hai. Aaj raat connection kat jayega, turant call karein 6707605531",1,electricity,1
+"You are eligible for IT refund Rs 9,449. Confirm account number within 24 hours cutt.ly/iklhk6",1,taxrefund,0
+"Paytm refund Rs 54,263 pending. Scan QR on this link to receive bit.ly/0pvnssc",1,upi_refund,0
+"Rs 51,140 debited from A/c XX4102 on 5 Nov towards BigBasket via UPI. Ref 911451361642. Not you? Contact your bank's official helpline.",0,ham,0
+"Canara Bank: Never share your OTP, PIN or CVV with anyone, including bank staff.",0,ham,0
+Aapka SBI credit card block ho gaya hai. Unblock karne ke liye OTP bhejein.,1,creditcard,1
+Your loan is sanctioned. Pay insurance charge Rs 99 to release amount. Call 8444534354,1,loan,0
+"Customs has seized your parcel. Pay Rs 59,025 clearance charge to release. Call 6876300521",1,courier,0
+"Aapne 25,00,000 ka inaam jeeta hai! Claim ke liye turant call karein 9511495069",1,lottery,1
+"Instant loan chahiye? Sirf Aadhaar aur PAN se Rs 15,063 paayein: tinyurl.com/t6rl2qfs",1,loan,1
+"Rs 14,097 credited by mistake to your account. Please refund by approving the UPI collect request",1,upi_refund,0
+544064 is your OTP for Paytm. Valid for 10 minutes. Do not share it with anyone.,0,ham,0
+"Work from home and earn Rs 44,710 per day. No experience needed. Join now bit.ly/iom8rfa",1,job,0
+"Part time job offer: earn Rs 43,666 weekly. Pay Rs 199 registration fee to confirm. WhatsApp 6770353790",1,job,0
+Your parcel is on hold due to incomplete address. Pay Rs 199 redelivery fee here: tinyurl.com/2576ixpw,1,courier,0
+"Instant loan chahiye? Sirf Aadhaar aur PAN se Rs 16,676 paayein: bit.ly/7padb6a",1,loan,1
+"Booking confirmed. Ref 4776850053, departs 6:30 pm from Mumbai Central.",0,ham,0
+"Part time job offer: earn Rs 58,284 weekly. Pay Rs 199 registration fee to confirm. WhatsApp 9029715778",1,job,0
+You are selected for a free iPhone. Pay Rs 499 delivery charge: tinyurl.com/mjow91nl,1,lottery,0
+Your appointment with Dr. Sneha is confirmed for 5 Nov at 5 pm.,0,ham,0
+"PNR 1680869169: Your IRCTC ticket is confirmed. Coach S4, Berth 23.",0,ham,0
+"Congratulations! You have won Rs 54,313 cashback on your Bank of Baroda card. Claim now: https://bankofbaroda-login.xyz",1,reward,0
+"Rs 11,936 credited to your a/c XX5905 on 5 Nov. Avl bal Rs 34,683.",0,ham,0
+"Hey Anil, happy birthday! Party at 10 am tonight?",0,ham,0
+"Instant loan chahiye? Sirf Aadhaar aur PAN se Rs 12,150 paayein: bit.ly/lraorhm",1,loan,1
+039101 is your OTP for Paytm. Valid for 10 minutes. Do not share it with anyone.,0,ham,0
+"Bijli bill pending hai. Aaj raat connection kat jayega, turant call karein 6529839968",1,electricity,1
+"You are eligible for IT refund Rs 17,369. Confirm account number within 24 hours tinyurl.com/9ylvsb2i",1,taxrefund,0
+"Paytm refund Rs 30,559 pending. Scan QR on this link to receive cutt.ly/urbo22",1,upi_refund,0
+Your Zomato order #6448 is out for delivery today. Track it at https://www.zomato.in/orders,0,ham,0
+Aapke 1625 reward points aaj expire ho rahe hain. Turant redeem karein bit.ly/gmac3dz,1,reward,1
+Your SIM will be blocked in 2 hours as per TRAI rules. Call 8219368201 immediately for verification,1,simblock,0
+"Hey Sneha, happy birthday! Party at 8 pm tonight?",0,ham,0
+"Hey Priya, happy birthday! Party at 8 pm tonight?",0,ham,0
+SBI card blocked for suspicious activity. Share the OTP received to unblock. Call 6649977414,1,creditcard,0
+"SBI: Never share your OTP, PIN or CVV with anyone, including bank staff.",0,ham,0
+Can you send me the notes from today's class?,0,ham,0
+Kotak Bank card blocked for suspicious activity. Share the OTP received to unblock. Call 8884063712,1,creditcard,0
+"Kotak Bank Reward: 9645 points expiring today. Redeem Rs 9,478 cashback now tinyurl.com/8x35jxvm",1,reward,0
+"Bijli bill pending hai. Aaj raat connection kat jayega, turant call karein 8732379504",1,electricity,1
+PNB ALERT: Your account is suspended due to pending KYC. Verify PAN immediately cutt.ly/fquof6,1,kyc,0
+"Pre-approved loan of Rs 50,640 in 5 minutes, no documents. Processing fee Rs 199 only. Apply: http://hdfc-kyc.live/5vyff",1,loan,0
+"Ghar baithe Rs 25,820 roz kamayein. Abhi join karein http://icici-secure.click/l6l2z",1,job,1
+Your appointment with Dr. Mehta is confirmed for 12-09-25 at 6:30 pm.,0,ham,0
+PNB ALERT: Your account is suspended due to pending KYC. Verify PAN immediately cutt.ly/fosizs,1,kyc,0
+"Power supply to be cut today. Bill of Rs 16,083 pending. Pay now: bit.ly/fsh4jwl",1,electricity,0
+Your parcel is on hold due to incomplete address. Pay Rs 199 redelivery fee here: tinyurl.com/sd36h3wy,1,courier,0
+"Congratulations! You have won Rs 10,00,000 in KBC lucky draw. Call 6455027969 to claim your prize",1,lottery,0
+Your loan is sanctioned. Pay insurance charge Rs 25 to release amount. Call 7315577782,1,loan,0
+URGENT! Complete KYC within 24 hours or Canara Bank will freeze your account. Click tinyurl.com/t44tbpvo or call 8002819570,1,kyc,0
+"Income Tax Dept: refund of Rs 45,543 pending. Submit bank details at https://canara-care.site",1,taxrefund,0
+"HDFC Bank Reward: 4089 points expiring today. Redeem Rs 55,920 cashback now tinyurl.com/aexej9h5",1,reward,0
+"PNR 6777020227: Your IRCTC ticket is confirmed. Coach S4, Berth 23.",0,ham,0
+OTP 781621 for your Ola login. Do not disclose to anyone.,0,ham,0
+"Bank of Baroda Reward: 7272 points expiring today. Redeem Rs 53,544 cashback now tinyurl.com/208phncy",1,reward,0
+"Your electricity bill of Rs 26,817 for October is generated. Pay by the due date through the official app.",0,ham,0
+162299 is your OTP for Zomato. Valid for 10 minutes. Do not share it with anyone.,0,ham,0
+Mummy ne bola ghar jaldi aana.,0,ham,0
+"Booking confirmed. Ref 5509091498, departs 5 pm from Mumbai Central.",0,ham,0
+Aapke 7693 reward points aaj expire ho rahe hain. Turant redeem karein bit.ly/20aonnx,1,reward,1
+Your SIM will be blocked in 2 hours as per TRAI rules. Call 9014968020 immediately for verification,1,simblock,0
+Aapka mobile number aaj band ho jayega. Verification ke liye call karein 9349084476,1,simblock,1
+"Fee receipt: Rs 37,910 received for Semester 4071. Thank you.",0,ham,0
+"Aapne 5,00,000 ka inaam jeeta hai! Claim ke liye turant call karein 9706176731",1,lottery,1
+"Rs 27,829 credited by mistake to your account. Please refund by approving the UPI collect request",1,upi_refund,0
+OTP 910535 for your Ola login. Do not disclose to anyone.,0,ham,0
+Your loan is sanctioned. Pay insurance charge Rs 999 to release amount. Call 6875576493,1,loan,0
+"Fee receipt: Rs 27,424 received for Semester 6944. Thank you.",0,ham,0
+"Your electricity bill of Rs 19,402 for August is generated. Pay by the due date through the official app.",0,ham,0
+"Rs 18,680 credited by mistake to your account. Please refund by approving the UPI collect request",1,upi_refund,0
+"Rs 14,624 debited from A/c XX6048 on 12-09-25 towards Uber via UPI. Ref 650555559869. Not you? Contact your bank's official helpline.",0,ham,0
+"Income Tax Dept: refund of Rs 58,890 pending. Submit bank details at cutt.ly/nhy0ue",1,taxrefund,0
+"Fee receipt: Rs 3,879 received for Semester 1604. Thank you.",0,ham,0
+"Pre-approved loan of Rs 58,276 in 5 minutes, no documents. Processing fee Rs 999 only. Apply: tinyurl.com/1vl8btn1",1,loan,0
+Your appointment with Dr. Rahul is confirmed for 5 Nov at 4 pm.,0,ham,0
+"Income Tax Dept: refund of Rs 42,805 pending. Submit bank details at cutt.ly/98durq",1,taxrefund,0
+PNB ALERT: Your account is suspended due to pending KYC. Verify PAN immediately bit.ly/v1q9dss,1,kyc,0
+Aapka mobile number aaj band ho jayega. Verification ke liye call karein 7276460839,1,simblock,1
+"Congratulations! You have won Rs 25,00,000 in KBC lucky draw. Call 7696921556 to claim your prize",1,lottery,0
+"Work from home and earn Rs 38,019 per day. No experience needed. Join now bit.ly/10lql0t",1,job,0
+"Paytm refund Rs 34,859 pending. Scan QR on this link to receive https://sbi-care.site",1,upi_refund,0
+Your parcel is on hold due to incomplete address. Pay Rs 99 redelivery fee here: https://bankofbaroda-care.top,1,courier,0
+Your Zomato order #2174 is out for delivery today. Track it at https://www.zomato.in/orders,0,ham,0
+"Pre-approved loan of Rs 18,995 in 5 minutes, no documents. Processing fee Rs 199 only. Apply: https://hdfconline.top",1,loan,0
+Your appointment with Dr. Rahul is confirmed for 21 Sep at 10 am.,0,ham,0
+"Booking confirmed. Ref 3428974569, departs 6:30 pm from Mumbai Central.",0,ham,0
+Reminder: DBMS lab tomorrow at 4 pm. Bring your journals.,0,ham,0
+"PNR 5056277700: Your IRCTC ticket is confirmed. Coach S4, Berth 23.",0,ham,0
+"Rs 44,486 credited to your a/c XX3705 on 03-10-25. Avl bal Rs 34,436.",0,ham,0
+"Pre-approved loan of Rs 8,924 in 5 minutes, no documents. Processing fee Rs 999 only. Apply: cutt.ly/ysquo7",1,loan,0
+Your SIM will be blocked in 2 hours as per TRAI rules. Call 7004019148 immediately for verification,1,simblock,0
+"Your electricity bill of Rs 44,123 for October is generated. Pay by the due date through the official app.",0,ham,0
+"Aapne 5,00,000 ka inaam jeeta hai! Claim ke liye turant call karein 6648817369",1,lottery,1
+"Work from home and earn Rs 55,438 per day. No experience needed. Join now http://bankofbaroda-secure.top/38fff",1,job,0
+"PNR 8442095938: Your IRCTC ticket is confirmed. Coach S4, Berth 23.",0,ham,0
+Your Myntra order #1942 is out for delivery today. Track it at https://www.myntra.in/orders,0,ham,0
+"Your electricity bill of Rs 56,132 for September is generated. Pay by the due date through the official app.",0,ham,0
+"You are eligible for IT refund Rs 15,439. Confirm account number within 24 hours bit.ly/31qcnw9",1,taxrefund,0
+"Dear HDFC Bank customer, your KYC has expired and your account will be blocked today. Update now: http://hdfc-rewards.xyz/9tm5n",1,kyc,0
+"Part time job offer: earn Rs 11,075 weekly. Pay Rs 199 registration fee to confirm. WhatsApp 7023385705",1,job,0
+Your SIM will be blocked in 2 hours as per TRAI rules. Call 6567159084 immediately for verification,1,simblock,0
+Recharge of Rs 25 successful. Validity 28 days. Thank you for choosing Jio.,0,ham,0
+OTP 054924 for your Ola login. Do not disclose to anyone.,0,ham,0
+"Ghar baithe Rs 36,707 roz kamayein. Abhi join karein cutt.ly/8mo61h",1,job,1
+You are selected for a free iPhone. Pay Rs 99 delivery charge: bit.ly/snr0wqx,1,lottery,0
+"Part time job offer: earn Rs 45,054 weekly. Pay Rs 499 registration fee to confirm. WhatsApp 6493290121",1,job,0
+Your Myntra order has been shipped and will arrive by 03-10-25.,0,ham,0
+"Booking confirmed. Ref 7236007313, departs 6:30 pm from Mumbai Central.",0,ham,0
+"Your PNB credit card limit is increased to Rs 11,771. Verify card number and CVV to activate: cutt.ly/ijj637",1,creditcard,0
+"Rs 49,258 credited to your a/c XX0197 on 03-10-25. Avl bal Rs 49,638.",0,ham,0
+"Customs has seized your parcel. Pay Rs 28,211 clearance charge to release. Call 9019746770",1,courier,0
+"Congratulations! You have won Rs 25,00,000 in KBC lucky draw. Call 8258342097 to claim your prize",1,lottery,0
+"Fee receipt: Rs 41,199 received for Semester 3556. Thank you.",0,ham,0
+"Your electricity bill of Rs 4,110 for August is generated. Pay by the due date through the official app.",0,ham,0
+Bhai kal 6:30 pm baje milte hain canteen mein.,0,ham,1
+"Rs 17,048 debited from A/c XX9758 on 03-10-25 towards Zomato via UPI. Ref 854315458321. Not you? Contact your bank's official helpline.",0,ham,0
+"Part time job offer: earn Rs 18,800 weekly. Pay Rs 99 registration fee to confirm. WhatsApp 6387767748",1,job,0
+India Post: delivery attempt failed. Update address in 24 hours or package will be returned. tinyurl.com/1k4h07wx,1,courier,0
+Aapka mobile number aaj band ho jayega. Verification ke liye call karein 7499714870,1,simblock,1
+"Fee receipt: Rs 55,707 received for Semester 1138. Thank you.",0,ham,0
+"Customs has seized your parcel. Pay Rs 13,153 clearance charge to release. Call 7133774165",1,courier,0
+Your Swiggy order has been shipped and will arrive by 21 Sep.,0,ham,0
+"Dear Axis Bank customer, your KYC has expired and your account will be blocked today. Update now: bit.ly/mtmo3oq",1,kyc,0
+"Your SBI credit card limit is increased to Rs 19,500. Verify card number and CVV to activate: bit.ly/vzolutz",1,creditcard,0
+"Bijli bill pending hai. Aaj raat connection kat jayega, turant call karein 6388719518",1,electricity,1
+"Pre-approved loan of Rs 49,024 in 5 minutes, no documents. Processing fee Rs 25 only. Apply: http://kotak-rewards.click/05a5m",1,loan,0
+"Your electricity bill of Rs 19,655 for September is generated. Pay by the due date through the official app.",0,ham,0
+Your Swiggy order #0987 is out for delivery today. Track it at https://www.swiggy.in/orders,0,ham,0
+Recharge of Rs 999 successful. Validity 28 days. Thank you for choosing Airtel.,0,ham,0
+Recharge of Rs 25 successful. Validity 28 days. Thank you for choosing Vi.,0,ham,0
+"Booking confirmed. Ref 5118610187, departs 6:30 pm from Mumbai Central.",0,ham,0
+Your Flipkart order #6449 is out for delivery today. Track it at https://www.flipkart.in/orders,0,ham,0
+You are selected for a free iPhone. Pay Rs 25 delivery charge: tinyurl.com/uv6zprgy,1,lottery,0
+"Congratulations! You have won Rs 53,348 cashback on your Canara Bank card. Claim now: tinyurl.com/ik6us98i",1,reward,0
+"HDFC Bank Reward: 1502 points expiring today. Redeem Rs 17,728 cashback now bit.ly/mk48m26",1,reward,0
+"Your Kotak Bank credit card limit is increased to Rs 18,964. Verify card number and CVV to activate: bit.ly/cmbdaf4",1,creditcard,0
+"Customs has seized your parcel. Pay Rs 28,422 clearance charge to release. Call 6600935699",1,courier,0
+Rs 199 debited from your IRCTC wallet for bill payment. Transaction ID 6716909027.,0,ham,0
+"Running late, will reach by 4 pm.",0,ham,0
+"Booking confirmed. Ref 1283959941, departs 8 pm from Mumbai Central.",0,ham,0
+OTP 187995 for your Paytm login. Do not disclose to anyone.,0,ham,0
+Recharge of Rs 499 successful. Validity 28 days. Thank you for choosing Jio.,0,ham,0
+"PNR 3493650757: Your IRCTC ticket is confirmed. Coach S4, Berth 23.",0,ham,0
+"Your Bank of Baroda credit card limit is increased to Rs 46,024. Verify card number and CVV to activate: https://bankofbaroda-login.xyz",1,creditcard,0
+Your Aadhaar will be deactivated today. Link mobile number now: http://bankofbaroda-secure.click/6unj5,1,aadhaar,0
+"Aapne 10,00,000 ka inaam jeeta hai! Claim ke liye turant call karein 6558776101",1,lottery,1
+India Post: delivery attempt failed. Update address in 24 hours or package will be returned. https://axis-care.top,1,courier,0
+"Income Tax Dept: refund of Rs 31,121 pending. Submit bank details at tinyurl.com/xxw9hyyn",1,taxrefund,0
+"Work from home and earn Rs 42,422 per day. No experience needed. Join now https://bankofbaroda-care.xyz",1,job,0
+"Fee receipt: Rs 54,593 received for Semester 7012. Thank you.",0,ham,0
+You are selected for a free iPhone. Pay Rs 199 delivery charge: bit.ly/bkrog8t,1,lottery,0
+"Your HDFC Bank credit card limit is increased to Rs 5,100. Verify card number and CVV to activate: cutt.ly/y9uq1u",1,creditcard,0
+"Dear consumer, your electricity connection will be disconnected tonight at 9.30 pm due to unpaid bill. Call officer 8392264159 immediately",1,electricity,0
+"PNR 2450936648: Your IRCTC ticket is confirmed. Coach S4, Berth 23.",0,ham,0
+Reminder: DBMS lab tomorrow at 10 am. Bring your journals.,0,ham,0
+Aapka mobile number aaj band ho jayega. Verification ke liye call karein 8808330578,1,simblock,1
+"Income Tax Dept: refund of Rs 34,555 pending. Submit bank details at https://axis-login.top",1,taxrefund,0
+Thanks for shopping with Swiggy. Your invoice is available in the app.,0,ham,0
+"Part time job offer: earn Rs 34,895 weekly. Pay Rs 99 registration fee to confirm. WhatsApp 9574729168",1,job,0
+OTP 972375 for your Swiggy login. Do not disclose to anyone.,0,ham,0
+"Rs 35,871 credited to your a/c XX3450 on 03-10-25. Avl bal Rs 21,652.",0,ham,0
+Your parcel is on hold due to incomplete address. Pay Rs 99 redelivery fee here: https://sbi-login.site,1,courier,0
+Your Aadhaar will be deactivated today. Link mobile number now: https://pnb-care.top,1,aadhaar,0
+Aapka mobile number aaj band ho jayega. Verification ke liye call karein 7980736527,1,simblock,1
+"Income Tax Dept: refund of Rs 34,332 pending. Submit bank details at cutt.ly/0s37ru",1,taxrefund,0
+India Post: delivery attempt failed. Update address in 24 hours or package will be returned. http://icici-rewards.click/wp0la,1,courier,0
+Canara Bank ALERT: Your account is suspended due to pending KYC. Verify PAN immediately cutt.ly/4brp2l,1,kyc,0
+"Rs 5,297 credited to your a/c XX5747 on 03-10-25. Avl bal Rs 47,446.",0,ham,0
+Your appointment with Dr. Anil is confirmed for 03-10-25 at 6:30 pm.,0,ham,0
+"Income Tax Dept: refund of Rs 31,601 pending. Submit bank details at https://canaraonline.xyz",1,taxrefund,0
+"Your electricity bill of Rs 25,692 for September is generated. Pay by the due date through the official app.",0,ham,0
+Your Aadhaar will be deactivated today. Link mobile number now: https://kotakonline.xyz,1,aadhaar,0
+Bank of Baroda ALERT: Your account is suspended due to pending KYC. Verify PAN immediately cutt.ly/vkq5gu,1,kyc,0
+"Work from home and earn Rs 37,978 per day. No experience needed. Join now cutt.ly/ke9gjx",1,job,0
+Aapke 3835 reward points aaj expire ho rahe hain. Turant redeem karein tinyurl.com/h3nr16d5,1,reward,1
+URGENT! Complete KYC within 24 hours or SBI will freeze your account. Click http://sbi-kyc.top/j2gej or call 8008599798,1,kyc,0
+Your ride receipt for Rs 25 has been emailed to you. Thanks for riding with IRCTC.,0,ham,0
+"You are eligible for IT refund Rs 33,022. Confirm account number within 24 hours tinyurl.com/b6397eny",1,taxrefund,0
+"PNR 4128614135: Your IRCTC ticket is confirmed. Coach S4, Berth 23.",0,ham,0
+"Congratulations! You have won Rs 5,00,000 in KBC lucky draw. Call 6278987710 to claim your prize",1,lottery,0
+SBI ALERT: Your account is suspended due to pending KYC. Verify PAN immediately http://sbi-secure.click/7ehwp,1,kyc,0
+OTP 622170 for your Zomato login. Do not disclose to anyone.,0,ham,0
+"Congratulations! You have won Rs 14,964 cashback on your ICICI Bank card. Claim now: tinyurl.com/2yz705bg",1,reward,0
+Your ride receipt for Rs 25 has been emailed to you. Thanks for riding with Ola.,0,ham,0
+"Running late, will reach by 10 am.",0,ham,0
+OTP 580674 for your IRCTC login. Do not disclose to anyone.,0,ham,0
+"PNR 3184757826: Your IRCTC ticket is confirmed. Coach S4, Berth 23.",0,ham,0
+You received cashback of Rs 969. Enter UPI PIN to accept: cutt.ly/mlt89h,1,upi_refund,0
+Aapka mobile number aaj band ho jayega. Verification ke liye call karein 9531602983,1,simblock,1
+"SBI Reward: 7508 points expiring today. Redeem Rs 47,882 cashback now bit.ly/01ejfed",1,reward,0
+"Rs 39,879 debited from A/c XX7382 on 5 Nov towards BigBasket via UPI. Ref 531170836587. Not you? Contact your bank's official helpline.",0,ham,0
+"You received cashback of Rs 25,562. Enter UPI PIN to accept: cutt.ly/glanlz",1,upi_refund,0
+"Rs 44,656 credited to your a/c XX7177 on 21 Sep. Avl bal Rs 32,056.",0,ham,0
+"You received cashback of Rs 38,493. Enter UPI PIN to accept: tinyurl.com/n0542woj",1,upi_refund,0
+"Rs 42,216 credited to your a/c XX5049 on 5 Nov. Avl bal Rs 1,384.",0,ham,0
+"ICICI Bank: Never share your OTP, PIN or CVV with anyone, including bank staff.",0,ham,0
+"Your Canara Bank credit card limit is increased to Rs 56,855. Verify card number and CVV to activate: http://canara-secure.top/c69w2",1,creditcard,0
+Your loan is sanctioned. Pay insurance charge Rs 999 to release amount. Call 8678208288,1,loan,0
+You are selected for a free iPhone. Pay Rs 999 delivery charge: http://bankofbaroda-rewards.live/gf8vf,1,lottery,0
+Meeting moved to 4 pm tomorrow. Please update the team.,0,ham,0
+"You are eligible for IT refund Rs 3,295. Confirm account number within 24 hours cutt.ly/ramp54",1,taxrefund,0
+"Rs 44,149 credited to your a/c XX0097 on 03-10-25. Avl bal Rs 24,202.",0,ham,0
+"Aapne 5,00,000 ka inaam jeeta hai! Claim ke liye turant call karein 6090127090",1,lottery,1
+Bank of Baroda ALERT: Your account is suspended due to pending KYC. Verify PAN immediately tinyurl.com/gn5s7s33,1,kyc,0
+Your SIM will be blocked in 2 hours as per TRAI rules. Call 8821767240 immediately for verification,1,simblock,0
+India Post: delivery attempt failed. Update address in 24 hours or package will be returned. https://hdfconline.xyz,1,courier,0
+"Bijli bill pending hai. Aaj raat connection kat jayega, turant call karein 6017506457",1,electricity,1
+"PNR 7310289767: Your IRCTC ticket is confirmed. Coach S4, Berth 23.",0,ham,0
+Your appointment with Dr. Mehta is confirmed for 03-10-25 at 4 pm.,0,ham,0
+"Pre-approved loan of Rs 1,435 in 5 minutes, no documents. Processing fee Rs 999 only. Apply: cutt.ly/8og3g1",1,loan,0
+Rs 25 debited from your Paytm wallet for bill payment. Transaction ID 0937679070.,0,ham,0
+"Rs 36,067 credited to your a/c XX7767 on 12-09-25. Avl bal Rs 53,512.",0,ham,0
+Your SIM will be blocked in 2 hours as per TRAI rules. Call 9779842272 immediately for verification,1,simblock,0
+"PNR 9350402356: Your IRCTC ticket is confirmed. Coach S4, Berth 23.",0,ham,0
+Your appointment with Dr. Anil is confirmed for 21 Sep at 8 pm.,0,ham,0
+Aapka HDFC Bank credit card block ho gaya hai. Unblock karne ke liye OTP bhejein.,1,creditcard,1
+Tera kya plan hai weekend ka? Movie chalein?,0,ham,1
+Your Aadhaar will be deactivated today. Link mobile number now: cutt.ly/r4z5uk,1,aadhaar,0
+"Your Axis Bank credit card limit is increased to Rs 12,329. Verify card number and CVV to activate: tinyurl.com/shqibk1a",1,creditcard,0
+"Income Tax Dept: refund of Rs 55,686 pending. Submit bank details at http://axis-verify.live/06oen",1,taxrefund,0
+"Part time job offer: earn Rs 24,981 weekly. Pay Rs 99 registration fee to confirm. WhatsApp 9055402474",1,job,0
+"Income Tax Dept: refund of Rs 34,377 pending. Submit bank details at tinyurl.com/ns4lzey4",1,taxrefund,0
+Your SIM will be blocked in 2 hours as per TRAI rules. Call 7326960242 immediately for verification,1,simblock,0
+Your Zomato order has been shipped and will arrive by 12-09-25.,0,ham,0
+"Hey Anil, happy birthday! Party at 6:30 pm tonight?",0,ham,0
+"Customs has seized your parcel. Pay Rs 30,365 clearance charge to release. Call 8214946798",1,courier,0
+Your parcel is on hold due to incomplete address. Pay Rs 999 redelivery fee here: cutt.ly/pqykbf,1,courier,0
+Rs 25 debited from your IRCTC wallet for bill payment. Transaction ID 9006121883.,0,ham,0
+"Rs 44,173 credited to your a/c XX2869 on 03-10-25. Avl bal Rs 45,064.",0,ham,0
+"Bank of Baroda Reward: 7503 points expiring today. Redeem Rs 51,905 cashback now cutt.ly/h2x74p",1,reward,0
+Your loan is sanctioned. Pay insurance charge Rs 25 to release amount. Call 8251975623,1,loan,0
+"Dear Bank of Baroda customer, your KYC has expired and your account will be blocked today. Update now: cutt.ly/v4vobp",1,kyc,0

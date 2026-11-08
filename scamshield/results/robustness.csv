@@ -1,0 +1,36 @@
+model,attack,recall,fpr
+A. Baseline (classic data only),clean,0.5641025641025641,0.225
+A. Baseline (classic data only),leetspeak,0.43589743589743596,0.18000000000000002
+A. Baseline (classic data only),homoglyph,0.21025641025641026,0.13
+A. Baseline (classic data only),zero_width,0.20512820512820512,0.135
+A. Baseline (classic data only),spacing,0.4256410256410256,0.145
+A. Baseline (classic data only),url_obfuscation,0.23076923076923078,0.225
+A. Baseline (classic data only),combined,0.18974358974358974,0.155
+B. + Indian data,clean,1.0,0.0
+B. + Indian data,leetspeak,0.8102564102564103,0.1
+B. + Indian data,homoglyph,0.5948717948717948,0.085
+B. + Indian data,zero_width,0.5128205128205129,0.06
+B. + Indian data,spacing,0.8923076923076924,0.03
+B. + Indian data,url_obfuscation,0.9743589743589742,0.0
+B. + Indian data,combined,0.482051282051282,0.11000000000000001
+C. + Normalization,clean,1.0,0.0
+C. + Normalization,leetspeak,0.9948717948717949,0.01
+C. + Normalization,homoglyph,1.0,0.0
+C. + Normalization,zero_width,1.0,0.0
+C. + Normalization,spacing,1.0,0.005
+C. + Normalization,url_obfuscation,1.0,0.0
+C. + Normalization,combined,1.0,0.02
+D. + Adversarial training,clean,1.0,0.0
+D. + Adversarial training,leetspeak,1.0,0.14500000000000002
+D. + Adversarial training,homoglyph,0.9538461538461538,0.17
+D. + Adversarial training,zero_width,0.964102564102564,0.2
+D. + Adversarial training,spacing,1.0,0.06
+D. + Adversarial training,url_obfuscation,1.0,0.0
+D. + Adversarial training,combined,0.9692307692307693,0.23499999999999996
+E. ScamShield (Norm + Adv. training),clean,1.0,0.0
+E. ScamShield (Norm + Adv. training),leetspeak,1.0,0.01
+E. ScamShield (Norm + Adv. training),homoglyph,1.0,0.0
+E. ScamShield (Norm + Adv. training),zero_width,1.0,0.0
+E. ScamShield (Norm + Adv. training),spacing,1.0,0.015000000000000003
+E. ScamShield (Norm + Adv. training),url_obfuscation,1.0,0.0
+E. ScamShield (Norm + Adv. training),combined,1.0,0.02

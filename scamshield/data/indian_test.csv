@@ -1,0 +1,80 @@
+text,label,scam_type,hinglish
+HDFC Bank: Your net banking will be suspended tonight. Complete your PAN verification now at hdfc-verify-kyc.top/login to avoid deactivation.,1,kyc,0
+"Dear SBI user, KYC expired. Account freeze in 24 hrs. Update here: http://bit.ly/3xKyc9 or call 9876501234",1,kyc,0
+Aapka Axis Bank khata block hone wala hai. Abhi KYC verify karein warna service band: tinyurl.com/axs-kyc,1,kyc,1
+ICICI Alert!! Your account is on hold due to incomplete KYC. Click link to reactivate immediately https://icici-secure.xyz/update,1,kyc,0
+Last warning: your SBI YONO account will lapse today. Install YONO KYC update app: sbi-yono-kyc.net/app,1,kyc,0
+"Congrats! You have 8,450 reward points in your credit card expiring today. Redeem as cash: cutt.ly/rwdNow",1,reward,0
+"HDFC Reward: Rs 9,999 cashback is ready. Claim before midnight by installing our app: hdfcrewards-india.net/apk",1,reward,0
+Aapke reward points aaj raat expire ho rahe hain. Turant redeem karein: bit.ly/redeem-9k,1,reward,1
+Dear consumer your electricity will be disconnected tonight 9.30 pm as previous month bill was not updated. Contact officer 8123456790 immediately,1,electricity,0
+"MSEDCL: Bill unpaid. Power supply will be cut today. Pay Rs 1,230 now via http://mseb-pay.top/bill",1,electricity,0
+"Bijli ka bill pending hai, aaj raat connection kat jayega. Turant is number par call karein: 9988776655",1,electricity,1
+Final notice: Adani Electricity connection will be terminated today. Update details at adani-bill-update.top,1,electricity,0
+India Post: Your parcel is held at the depot due to incorrect address. Pay Rs 25 redelivery fee at indiapost-track.xyz/pay,1,courier,0
+Your package could not be delivered. Update your address within 12 hours or it will be returned: tinyurl.com/pkg-help,1,courier,0
+"Customs: parcel in your name is stuck. Pay clearance charges Rs 4,500 to release. WhatsApp 9123456780",1,courier,0
+BlueDart: delivery failed 2nd attempt. Reschedule and pay Rs 30 at bluedart-resched.top,1,courier,0
+"Work from home! Earn Rs 3,000 daily by liking YouTube videos. No experience needed. Join Telegram now: t.me/earnfast_jobs",1,job,0
+"Hiring part time data entry. Salary Rs 25,000/week. Pay Rs 500 registration fee to confirm your seat. Reply YES",1,job,0
+Ghar baithe kamayein 5000 rozana. Sirf mobile chahiye. Abhi WhatsApp karein 9871234560,1,job,1
+"Amazon is hiring home-based reviewers, Rs 800 per review. Send Rs 300 deposit to start. Info: wa.me/919876500011",1,job,0
+Pre-approved personal loan of Rs 5 lakh in 10 minutes. No documents needed. Pay processing fee Rs 999 to receive: quickcash-loan.live,1,loan,0
+"Your loan is approved! Disbursal pending - transfer insurance charge Rs 1,500 to activate. Call 9090909090",1,loan,0
+"Instant loan app: Rs 50,000 credited in 5 mins, just share Aadhaar, PAN and selfie: easyloan-now.xyz",1,loan,0
+"Your credit card limit has been increased to Rs 2,00,000! Verify card number and CVV here to activate: bit.ly/cc-limit-up",1,creditcard,0
+Axis Bank card blocked due to suspicious activity. Share the OTP sent to you with our executive to unblock.,1,creditcard,0
+"Income Tax Dept: Refund of Rs 15,490 is pending. Submit bank details at incometax-refund.top to receive within 2 days.",1,taxrefund,0
+You are eligible for a tax refund. Confirm your account number and PAN now: cutt.ly/itr-ref,1,taxrefund,0
+"KBC Lucky Draw: Your number won Rs 25,00,000! Contact manager Mr. Rana on 9812398123 to claim your prize.",1,lottery,0
+Congratulations!! You are selected for iPhone 15 giveaway. Pay delivery charge Rs 199 only: bit.ly/iphone-free,1,lottery,0
+Aapne jeeta hai 10 lakh ka inaam! Claim ke liye abhi call karein 9755512345,1,lottery,1
+"Dear winner, Jio Lucky Customer 2025 prize of Rs 1,00,000 awaits. Register now: jio-winner.live",1,lottery,0
+Your Aadhaar will be deactivated if not linked with mobile. Update immediately: uidai-link.xyz/verify,1,aadhaar,0
+Aadhaar update mandatory today. Send your Aadhaar number and OTP on this number to avoid penalty.,1,aadhaar,0
+TRAI Notice: Your SIM will be blocked in 2 hours for illegal activity. Press 9 to speak to officer.,1,simblock,0
+Your mobile number will be disconnected today due to incomplete verification. Call 9345678123 now.,1,simblock,0
+Aapka SIM aaj raat band ho jayega. Verification ke liye turant call karein 9456123780,1,simblock,1
+"PhonePe: Rs 4,999 refund received by mistake. Please return it by approving the collect request on UPI immediately.",1,upi_refund,0
+"You have received Rs 2,000 cashback. Enter your UPI PIN to receive the amount: paytm-cashback.top",1,upi_refund,0
+Google Pay refund of Rs 850 is waiting. Scan the QR code in this link to collect: bit.ly/gp-qr-refund,1,upi_refund,0
+Your OTP for logging in to Swiggy is 482913. It is valid for 10 minutes. Do not share it with anyone.,0,ham,0
+"Rs 1,250.00 debited from A/c XX4821 on 14-09-25 towards Zomato via UPI. Not you? Call the bank on its official number.",0,ham,0
+"Rs 20,000 credited to your account XX9034 by NEFT from Infosys Ltd. Avl bal Rs 31,420.",0,ham,0
+Your Amazon order for wireless mouse will be delivered by tomorrow 8 pm. Track in the Amazon app.,0,ham,0
+"Hey, are we still meeting at the library after the lecture?",0,ham,0
+"Kal practical ka journal laana mat bhulna, sir check karenge.",0,ham,1
+"Bhai thodi der mein pahunch raha hoon, tu gate pe ruk.",0,ham,1
+"Reminder: your electricity bill of Rs 1,120 is due on 25th. You can pay using the official app or website.",0,ham,0
+Your Airtel recharge of Rs 299 was successful. 1.5GB/day for 28 days. Thank you.,0,ham,0
+Dr. Mehta's clinic: your appointment is confirmed for Saturday 11:30 am.,0,ham,0
+"PNR 4512367890 confirmed. S5, berth 41. Train 12951 departs 17:35 from Mumbai Central.",0,ham,0
+Mom: pick up some milk and bread on your way home please,0,ham,0
+Class 5B parent meeting is on Friday at 4 pm in the school hall.,0,ham,0
+Team standup moved to 11 am tomorrow. Please update the sprint board before the call.,0,ham,0
+Happy birthday Riya! Hope you have an amazing day. Party at 7 tonight?,0,ham,0
+Tera assignment submit ho gaya kya? Last date kal hai.,0,ham,1
+"SBI: Never share your OTP, PIN or CVV with anyone, including bank staff.",0,ham,0
+"Your cab is arriving in 3 minutes. Driver Ramesh, MH02 AB 1234. Share OTP 5521 with the driver to start the ride.",0,ham,0
+Thanks for shopping at Reliance Trends. Your invoice is available at the store counter.,0,ham,0
+Your Zerodha account statement for September is ready on the Console.,0,ham,0
+Lunch kahan karna hai? Canteen ya bahar?,0,ham,1
+Library book 'Operating Systems' is due for return on 22 Oct. Please renew or return.,0,ham,0
+Rs 540 debited from your Paytm wallet for electricity bill payment. Transaction ID 99120342.,0,ham,0
+Your flight 6E 213 to Delhi is on time. Web check-in opens 48 hours before departure.,0,ham,0
+Can you share the PPT of yesterday's session? I missed the first half.,0,ham,0
+"Hi, this is Anil from the hostel office. Your room inspection is on Monday.",0,ham,0
+Aaj ka match dekha? Kohli ne kamaal kar diya yaar.,0,ham,1
+"Your HDFC credit card statement for September is generated. Total due Rs 4,320, due date 10 Oct. Pay via the HDFC app.",0,ham,0
+"Dinner ready hai, jaldi aa jao.",0,ham,0
+Netflix: Your payment of Rs 199 was successful. Enjoy streaming.,0,ham,0
+OTP 774120 for your IRCTC login. Do not disclose to anyone.,0,ham,0
+"College fee receipt: Rs 45,000 received for Semester 5. Thank you.",0,ham,0
+Reminder: Gym membership renews on 1 Nov. Visit the front desk to extend.,0,ham,0
+Congrats on the new job! Let's celebrate this weekend.,0,ham,0
+Your order from Domino's is confirmed. Estimated delivery 30 mins.,0,ham,0
+We have received your application for Data Analyst role. Our team will contact you if shortlisted.,0,ham,0
+Maths test postponed to Thursday. Syllabus remains the same.,0,ham,0
+Ola: Your ride receipt for Rs 215 has been emailed to you.,0,ham,0
+Bank holiday on 2 Oct. Branches will remain closed; UPI and net banking services will work normally.,0,ham,0
+"Yaar mera phone charge nahi hai, mom ko bol dena main late aaunga.",0,ham,1

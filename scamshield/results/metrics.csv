@@ -1,0 +1,16 @@
+model,test_set,accuracy,precision,recall,f1
+A. Baseline (classic data only),Classic SMS test,0.9922630560928434,0.9946236559139785,0.9438775510204082,0.9685863874345549
+A. Baseline (classic data only),Indian test (hand-written),0.6708860759493671,0.7096774193548387,0.5641025641025641,0.6285714285714286
+A. Baseline (classic data only),Indian Hinglish subset,0.5,0.0,0.0,0.0
+B. + Indian data,Classic SMS test,0.9903288201160542,1.0,0.923469387755102,0.9602122015915119
+B. + Indian data,Indian test (hand-written),1.0,1.0,1.0,1.0
+B. + Indian data,Indian Hinglish subset,1.0,1.0,1.0,1.0
+C. + Normalization,Classic SMS test,0.9896840747904577,0.9945054945054945,0.923469387755102,0.9576719576719577
+C. + Normalization,Indian test (hand-written),1.0,1.0,1.0,1.0
+C. + Normalization,Indian Hinglish subset,1.0,1.0,1.0,1.0
+D. + Adversarial training,Classic SMS test,0.9916183107672469,1.0,0.9336734693877551,0.9656992084432717
+D. + Adversarial training,Indian test (hand-written),1.0,1.0,1.0,1.0
+D. + Adversarial training,Indian Hinglish subset,1.0,1.0,1.0,1.0
+E. ScamShield (Norm + Adv. training),Classic SMS test,0.9903288201160542,0.994535519125683,0.9285714285714286,0.9604221635883905
+E. ScamShield (Norm + Adv. training),Indian test (hand-written),1.0,1.0,1.0,1.0
+E. ScamShield (Norm + Adv. training),Indian Hinglish subset,1.0,1.0,1.0,1.0

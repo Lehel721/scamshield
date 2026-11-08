@@ -1,0 +1,9 @@
+venv
+**/__pycache__
+.DS_Store
+app.py
+requirements-dev.txt
+data/spam.csv
+data/indian_train.csv
+data/indian_test.csv
+results/*.png

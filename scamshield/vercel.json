@@ -1,0 +1,13 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "buildCommand": "",
+  "outputDirectory": "public",
+  "functions": {
+    "api/*.py": {
+      "memory": 1024,
+      "maxDuration": 30,
+      "includeFiles": "{config.py,src/**,models/**,data/knowledge_base.json,results/*.csv,results/*.json}"
+    }
+  }
+}
